@@ -1,18 +1,25 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/file-bricks/.github/main/profile/logo.jpg" alt="file-bricks" width="400">
-</p>
+# file-bricks
 
-<h3 align="center">file-bricks</h3>
-<p align="center"><i>Desktop tools for files, data & system utilities</i></p>
+**Cross-platform desktop applications for file management, built with PySide6.**
 
----
+## Our Tools
 
-A collection of professional desktop applications for file management, data processing, backup, and system utilities. All tools are built with Python and designed for power users.
+| App | Description |
+|-----|------------|
+| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | Knowledge management & document digestion |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | Advanced file explorer |
+| [ProSync](https://github.com/file-bricks/ProSync) | File synchronization tool |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | Smart file profiling & management |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | Clipboard manager with traffic light UX |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Note-taking with LLM integration |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Prompt management for AI workflows |
+| [MetaWiki](https://github.com/file-bricks/MetaWiki) | Personal wiki & metadata tool |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Software management hub |
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | Lightweight SQLite database viewer |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | Windows Store packaging tool |
 
-### Projects
+## Part of the open-bricks ecosystem
 
-ProFiler, ExplorerPro, ProSync, SQLiteViewer, SoftwareCenter, AmpelClip, WinStorePackager, knowledgedigest, NoteSpaceLLM, ProfiPrompt, MetaWiki
+file-bricks is part of [open-bricks](https://github.com/open-bricks) — an ecosystem of open-source desktop software, AI infrastructure, developer tools, and research repositories.
 
----
-
-**License:** MIT
+**AI infrastructure:** [ellmos-ai](https://github.com/ellmos-ai) · **Developer tools:** [dev-bricks](https://github.com/dev-bricks) · **Document tools:** [doc-bricks](https://github.com/doc-bricks) · **Research:** [research-line](https://github.com/research-line)
