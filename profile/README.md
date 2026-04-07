@@ -1,25 +1,27 @@
 # file-bricks
 
-**Cross-platform desktop applications for file management, built with PySide6.**
+**AI-native desktop applications for file management, built with Python and PySide6.**
+
+file-bricks provides a full suite of cross-platform tools for organizing, searching, synchronizing, and protecting your files — all working locally, with optional LLM integration.
 
 ## Our Tools
 
 | App | Description |
-|-----|------------|
-| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | Knowledge management & document digestion |
-| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | Advanced file explorer |
-| [ProSync](https://github.com/file-bricks/ProSync) | File synchronization tool |
-| [ProFiler](https://github.com/file-bricks/ProFiler) | Smart file profiling & management |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | Clipboard manager with traffic light UX |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Note-taking with LLM integration |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Prompt management for AI workflows |
-| [MetaWiki](https://github.com/file-bricks/MetaWiki) | Personal wiki & metadata tool |
-| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Software management hub |
-| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | Lightweight SQLite database viewer |
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | Windows Store packaging tool |
+|-----|-------------|
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | Advanced file explorer with privacy monitor and sync manager |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | Professional file management with full-text search and OCR |
+| [ProSync](https://github.com/file-bricks/ProSync) | Intelligent backup synchronization with SQLite protection |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | Clipboard privacy monitor with automatic anonymization |
+| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | Portable knowledge base with LLM summaries |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Local, privacy-first alternative to Google NotebookLM |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | AI prompt manager with board system and versioning |
+| [MetaWiki](https://github.com/file-bricks/MetaWiki) | Universal knowledge scaffold with 630+ bilingual stubs |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Lightweight desktop organizer for software shortcuts |
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | Fast SQLite database browser with SQL editor |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | GUI tool for Microsoft Store packaging |
 
-## Part of the open-bricks ecosystem
+## Part of the open-bricks suite
 
-file-bricks is part of [open-bricks](https://github.com/open-bricks) — an ecosystem of open-source desktop software, AI infrastructure, developer tools, and research repositories.
+[open-bricks](https://github.com/open-bricks) · [doc-bricks](https://github.com/doc-bricks) · [dev-bricks](https://github.com/dev-bricks)
 
-**AI infrastructure:** [ellmos-ai](https://github.com/ellmos-ai) · **Developer tools:** [dev-bricks](https://github.com/dev-bricks) · **Document tools:** [doc-bricks](https://github.com/doc-bricks) · **Research:** [research-line](https://github.com/research-line)
+Part of the [ellmos-ai](https://github.com/ellmos-ai) ecosystem.
