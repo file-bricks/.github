@@ -19,6 +19,7 @@ file-bricks provides a full suite of cross-platform tools for organizing, search
 | [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Lightweight desktop organizer for software shortcuts |
 | [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | Fast SQLite database browser with SQL editor |
 | [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | GUI tool for Microsoft Store packaging |
+| [CleanMarkdown](https://github.com/doc-bricks/CleanMarkdown) | Fast local Markdown viewer/editor for opening, editing, and exporting Markdown files |
 
 ## Part of the open-bricks suite
 
