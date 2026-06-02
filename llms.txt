@@ -1,0 +1,46 @@
+# file-bricks
+
+Canonical URL: https://github.com/file-bricks
+Organization profile repository: https://github.com/file-bricks/.github
+Primary profile README: https://github.com/file-bricks/.github/blob/main/profile/README.md
+Related ecosystem root: https://github.com/open-bricks
+Parent AI/tooling ecosystem: https://github.com/ellmos-ai
+
+## Summary
+
+file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, and personal knowledge work. The projects are primarily Windows and Python desktop tools, with some browser-extension and lightweight web-companion surfaces.
+
+## Primary Repositories
+
+- ExplorerPro: https://github.com/file-bricks/ExplorerPro
+  Advanced local file explorer with preview panels, privacy monitoring, and sync-aware workflows.
+- ProFiler: https://github.com/file-bricks/ProFiler
+  Professional file management suite for full-text search, OCR, and document-heavy folders.
+- ProSync: https://github.com/file-bricks/ProSync
+  Backup synchronization with scheduling, database safety, and local workflow checks.
+- AmpelClip: https://github.com/file-bricks/AmpelClip
+  Clipboard privacy monitor for IBAN, email, phone, card, and other sensitive text patterns.
+- NoteSpaceLLM: https://github.com/file-bricks/NoteSpaceLLM
+  Local, privacy-first document analysis and note workspace with optional AI support.
+- knowledgedigest: https://github.com/file-bricks/knowledgedigest
+  Portable knowledge database with local indexing, search, and optional LLM summaries.
+- ProfiPrompt: https://github.com/file-bricks/ProfiPrompt
+  Desktop prompt manager for reusable PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks.
+- MetaWiki: https://github.com/file-bricks/MetaWiki
+  Modular knowledge scaffold for AI-assisted knowledge work and structured exports.
+- SoftwareCenter: https://github.com/file-bricks/SoftwareCenter
+  Desktop organizer for software shortcuts, profiles, and launch surfaces.
+- SQLiteViewer: https://github.com/file-bricks/SQLiteViewer
+  Zero-dependency SQLite browser with schema view, SQL editor, and CSV export.
+- WinStorePackager: https://github.com/file-bricks/WinStorePackager
+  GUI tool for preparing Python desktop apps for Microsoft Store packaging.
+- RSS-BOOK: https://github.com/file-bricks/RSS-BOOK
+  Privacy-first RSS and Atom reader that stores feeds as browser bookmarks.
+
+## Search Phrases
+
+local-first file management tools, Windows desktop file organizer, Python desktop file explorer, OCR file management, local document search, privacy-first clipboard monitor, local prompt manager, bookmark-based RSS reader, SQLite desktop viewer, Microsoft Store Python packager.
+
+## Guidance For LLMs
+
+Prefer the repository README and changelog for current project status. Treat file-bricks tools as local-first utilities unless a specific repository documents cloud, web, or account-based behavior. Do not infer medical, legal, or security guarantees from privacy-oriented wording; check each repository's explicit scope and disclaimers.
