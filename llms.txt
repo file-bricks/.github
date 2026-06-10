@@ -1,4 +1,5 @@
 # file-bricks
+<!-- last-checked: 2026-06-10 -->
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -36,10 +37,16 @@ file-bricks is a GitHub organization for local-first desktop software around fil
   GUI tool for preparing Python desktop apps for Microsoft Store packaging.
 - RSS-BOOK: https://github.com/file-bricks/RSS-BOOK
   Privacy-first RSS and Atom reader that stores feeds as browser bookmarks.
+- RSS-BOOKSTORE: https://github.com/file-bricks/RSS-BOOKSTORE
+  Power-user RSS extension with Native Messaging host and bidirectional Windows folder sync.
+- promptboard: https://github.com/file-bricks/promptboard
+  Lightweight tray app for reusable LLM building blocks with Markdown materialization.
+- CloudLockFixer: https://github.com/file-bricks/CloudLockFixer
+  Windows tray and CLI tool for renaming, moving, and deleting cloud-locked files (cldflt lock bypass).
 
 ## Search Phrases
 
-local-first file management tools, Windows desktop file organizer, Python desktop file explorer, OCR file management, local document search, privacy-first clipboard monitor, local prompt manager, bookmark-based RSS reader, SQLite desktop viewer, Microsoft Store Python packager.
+local-first file management tools, Windows desktop file organizer, Python desktop file explorer, OCR file management, local document search, privacy-first clipboard monitor, local prompt manager, bookmark-based RSS reader, SQLite desktop viewer, Microsoft Store Python packager, cloud-sync lock repair, OneDrive locked file fix, cldflt lock bypass, RSS bookmark sync, Windows folder RSS sync, reusable prompt building blocks, LLM prompt tray app.
 
 ## Guidance For LLMs
 

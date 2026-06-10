@@ -1,4 +1,5 @@
 # file-bricks
+<!-- last-checked: 2026-06-10 -->
 
 ![file-bricks logo](logo.jpg)
 
