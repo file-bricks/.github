@@ -1,11 +1,20 @@
 # file-bricks
-<!-- last-checked: 2026-06-10 -->
+
+## Last-checked: 2026-06-11
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
 Primary profile README: https://github.com/file-bricks/.github/blob/main/profile/README.md
 Related ecosystem root: https://github.com/open-bricks
 Parent AI/tooling ecosystem: https://github.com/ellmos-ai
+
+## Audience
+
+- **Windows desktop app users**: local-first file management, folder sync, cloud-lock repair, and clipboard privacy tools that keep data on the user's machine
+- **Python developers**: building PySide6 desktop apps for Windows and cross-platform deployment, including Microsoft Store packaging workflows
+- **Personal knowledge workers**: local RAG, document search, OCR, and prompt management without cloud accounts or subscriptions
+- **Privacy-conscious users**: clipboard monitors, local-only RSS readers, and offline-first data tools where no external service is required
+- **LLM agent developers**: prompt and building-block management via promptboard and ProfiPrompt; knowledge retrieval via knowledgedigest and NoteSpaceLLM
 
 ## Summary
 
@@ -46,7 +55,18 @@ file-bricks is a GitHub organization for local-first desktop software around fil
 
 ## Search Phrases
 
-local-first file management tools, Windows desktop file organizer, Python desktop file explorer, OCR file management, local document search, privacy-first clipboard monitor, local prompt manager, bookmark-based RSS reader, SQLite desktop viewer, Microsoft Store Python packager, cloud-sync lock repair, OneDrive locked file fix, cldflt lock bypass, RSS bookmark sync, Windows folder RSS sync, reusable prompt building blocks, LLM prompt tray app.
+```
+local-first file management tools Python PySide6
+Windows desktop file organizer local-first
+OCR document search local RAG no cloud
+privacy-first clipboard monitor IBAN email phone
+local prompt manager LLM building blocks tray app
+bookmark-based RSS reader no account browser extension
+SQLite desktop viewer schema CSV export
+Microsoft Store Python desktop packager GUI
+cloud-sync lock repair OneDrive cldflt bypass
+personal knowledge base local indexing LLM summaries
+```
 
 ## Guidance For LLMs
 
