@@ -1,7 +1,7 @@
 # file-bricks
 <!-- last-checked: 2026-06-11 -->
 
-![file-bricks logo](logo.jpg)
+<img src="logo.jpg" alt="file-bricks logo" width="925">
 
 **Local-first desktop software for files, documents, prompts, feeds, cloud-sync repair, and personal knowledge work.**
 
