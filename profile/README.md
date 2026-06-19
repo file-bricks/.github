@@ -1,11 +1,11 @@
 # file-bricks
-<!-- last-checked: 2026-06-11 -->
+<!-- last-checked: 2026-06-19 -->
 
 <img src="logo.jpg" alt="file-bricks logo" width="925">
 
 **Local-first desktop software for files, documents, prompts, feeds, cloud-sync repair, and personal knowledge work.**
 
-file-bricks builds open, inspectable Windows and cross-platform tools for people who want their working data to stay on their own machine first. Most projects are Python/PySide6 desktop apps; browser extensions cover private RSS workflows. The shared focus is local data ownership, fast search, practical automation, privacy checks, and optional AI only where it improves the task.
+file-bricks builds open, inspectable Windows and cross-platform tools for people who want their working data to stay on their own machine first. The organization currently has 14 active public product repositories, mostly Python/PySide6 desktop apps plus browser extensions for private RSS workflows. The shared focus is local data ownership, fast search, practical automation, privacy checks, and optional AI only where it improves the task.
 
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, and Microsoft Store packaging.
 
@@ -42,7 +42,6 @@ Search terms this organization is built around: local-first desktop apps, PySide
 | [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | Portable knowledge database with local indexing, search, and optional LLM summaries |
 | [promptboard](https://github.com/file-bricks/promptboard) | Lightweight tray app for reusable LLM building blocks with Markdown materialization |
 | [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Desktop prompt manager for reusable PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks |
-| [MetaWiki](https://github.com/file-bricks/MetaWiki) | Modular bilingual knowledge scaffold with 630+ compact stubs for AI-assisted knowledge work |
 
 ### Feeds, Utilities And Packaging
 
@@ -56,12 +55,12 @@ Search terms this organization is built around: local-first desktop apps, PySide
 
 ## Repository Coverage
 
-The public product index above covers the active file-bricks repositories:
+The public product index above covers all 14 active public file-bricks product repositories:
 
 | Area | Repositories |
 |---|---|
 | File, sync, and data | [ExplorerPro](https://github.com/file-bricks/ExplorerPro), [ProFiler](https://github.com/file-bricks/ProFiler), [ProSync](https://github.com/file-bricks/ProSync), [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer), [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) |
-| Knowledge and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt), [MetaWiki](https://github.com/file-bricks/MetaWiki) |
+| Knowledge and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
 | Feeds and utilities | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organization infrastructure | [`.github`](https://github.com/file-bricks/.github) profile README, default community files, workflow templates, and [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
 

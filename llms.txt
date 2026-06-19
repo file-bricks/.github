@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-06-11
+## Last-checked: 2026-06-19
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -18,7 +18,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Summary
 
-file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, and personal knowledge work. The projects are primarily Windows and Python desktop tools, with some browser-extension and lightweight web-companion surfaces.
+file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, and personal knowledge work. It currently contains 14 active public product repositories. The projects are primarily Windows and Python desktop tools, with some browser-extension and lightweight web-companion surfaces.
 
 ## Primary Repositories
 
@@ -36,8 +36,6 @@ file-bricks is a GitHub organization for local-first desktop software around fil
   Portable knowledge database with local indexing, search, and optional LLM summaries.
 - ProfiPrompt: https://github.com/file-bricks/ProfiPrompt
   Desktop prompt manager for reusable PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks.
-- MetaWiki: https://github.com/file-bricks/MetaWiki
-  Modular knowledge scaffold for AI-assisted knowledge work and structured exports.
 - SoftwareCenter: https://github.com/file-bricks/SoftwareCenter
   Desktop organizer for software shortcuts, profiles, and launch surfaces.
 - SQLiteViewer: https://github.com/file-bricks/SQLiteViewer
