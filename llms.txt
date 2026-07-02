@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-06-19
+## Last-checked: 2026-07-02
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -10,62 +10,76 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Audience
 
-- **Windows desktop app users**: local-first file management, folder sync, cloud-lock repair, and clipboard privacy tools that keep data on the user's machine
-- **Python developers**: building PySide6 desktop apps for Windows and cross-platform deployment, including Microsoft Store packaging workflows
-- **Personal knowledge workers**: local RAG, document search, OCR, and prompt management without cloud accounts or subscriptions
-- **Privacy-conscious users**: clipboard monitors, local-only RSS readers, and offline-first data tools where no external service is required
+- **Windows desktop app users**: local-first file management, folder sync, cloud-lock repair, shortcut organization, Microsoft Store packaging, and clipboard privacy tools that keep data on the user's machine
+- **Python developers**: PySide6 and Tkinter desktop tooling, SQLite viewers, MSIX/AppxManifest workflows, and local-first packaging helpers
+- **Personal knowledge workers**: local RAG, document search, OCR, knowledge indexing, RSS/bookmark workflows, and prompt management without cloud accounts or subscriptions
+- **Privacy-conscious users**: clipboard monitors, local-only RSS readers, cloud-lock repair utilities, and offline-first data tools where no external service is required
 - **LLM agent developers**: prompt and building-block management via promptboard and ProfiPrompt; knowledge retrieval via knowledgedigest and NoteSpaceLLM
 
 ## Summary
 
-file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, and personal knowledge work. It currently contains 14 active public product repositories. The projects are primarily Windows and Python desktop tools, with some browser-extension and lightweight web-companion surfaces.
+file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, SQLite inspection, Microsoft Store packaging, and personal knowledge work. It currently contains 14 active public product repositories and one `.github` organization profile repository. The projects are primarily Windows and Python desktop tools, with browser-extension and lightweight Web/PWA companion surfaces where useful.
 
 ## Primary Repositories
 
 - ExplorerPro: https://github.com/file-bricks/ExplorerPro
-  Advanced local file explorer with preview panels, privacy monitoring, and sync-aware workflows.
+  Local-first PySide6 file explorer with preview panels, privacy monitoring, duplicate detection, and sync-aware workflows.
 - ProFiler: https://github.com/file-bricks/ProFiler
-  Professional file management suite for full-text search, OCR, and document-heavy folders.
+  Local-first PySide6 file manager with OCR, PDF tools, duplicate detection, SQLite indexing, full-text search, and privacy review.
 - ProSync: https://github.com/file-bricks/ProSync
-  Backup synchronization with scheduling, database safety, and local workflow checks.
-- AmpelClip: https://github.com/file-bricks/AmpelClip
-  Clipboard privacy monitor for IBAN, email, phone, card, and other sensitive text patterns.
-- NoteSpaceLLM: https://github.com/file-bricks/NoteSpaceLLM
-  Local, privacy-first document analysis and note workspace with optional AI support.
-- knowledgedigest: https://github.com/file-bricks/knowledgedigest
-  Portable knowledge database with local indexing, search, and optional LLM summaries.
-- ProfiPrompt: https://github.com/file-bricks/ProfiPrompt
-  Desktop prompt manager for reusable PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks.
-- SoftwareCenter: https://github.com/file-bricks/SoftwareCenter
-  Desktop organizer for software shortcuts, profiles, and launch surfaces.
+  Intelligent backup synchronization with database safety, scheduled syncs, and local workflow checks.
+- CloudLockFixer: https://github.com/file-bricks/CloudLockFixer
+  Windows tray and CLI tool for renaming, moving, and deleting cloud-locked files using copy-delete retries and cldflt lock bypass workflows.
 - SQLiteViewer: https://github.com/file-bricks/SQLiteViewer
-  Zero-dependency SQLite browser with schema view, SQL editor, and CSV export.
-- WinStorePackager: https://github.com/file-bricks/WinStorePackager
-  GUI tool for preparing Python desktop apps for Microsoft Store packaging.
+  Local Python/Tkinter SQLite database browser with schema view, SQL editor, search, CSV export, and JSON companion export.
+- NoteSpaceLLM: https://github.com/file-bricks/NoteSpaceLLM
+  Local NotebookLM alternative for private document analysis, local RAG, document chat, and AI report exports.
+- knowledgedigest: https://github.com/file-bricks/knowledgedigest
+  Portable knowledge database with document indexing, FTS5 search, PySide6 GUI, web viewer, and optional LLM summaries.
+- ProfiPrompt: https://github.com/file-bricks/ProfiPrompt
+  Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export, and read-only Web/PWA companion.
+- promptboard: https://github.com/file-bricks/promptboard
+  Lightweight Windows tray app for reusable LLM building blocks: PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT.
 - RSS-BOOK: https://github.com/file-bricks/RSS-BOOK
-  Privacy-first RSS and Atom reader that stores feeds as browser bookmarks.
+  Privacy-first Chrome/Edge/Firefox RSS and Atom extension that saves feed entries as browser bookmarks.
 - RSS-BOOKSTORE: https://github.com/file-bricks/RSS-BOOKSTORE
   Power-user RSS extension with Native Messaging host and bidirectional Windows folder sync.
-- promptboard: https://github.com/file-bricks/promptboard
-  Lightweight tray app for reusable LLM building blocks with Markdown materialization.
-- CloudLockFixer: https://github.com/file-bricks/CloudLockFixer
-  Windows tray and CLI tool for renaming, moving, and deleting cloud-locked files (cldflt lock bypass).
+- AmpelClip: https://github.com/file-bricks/AmpelClip
+  Local-first Windows clipboard privacy monitor with traffic-light preview and anonymization support.
+- SoftwareCenter: https://github.com/file-bricks/SoftwareCenter
+  Lightweight cross-platform desktop organizer for software shortcuts with tab-based categorization.
+- WinStorePackager: https://github.com/file-bricks/WinStorePackager
+  Local-first Windows GUI for Python Microsoft Store MSIX packaging, AppxManifest generation, Store icons, screenshots, and project profiles.
+- .github: https://github.com/file-bricks/.github
+  Organization profile README, public repository index, default community files, issue templates, and this llms.txt.
+
+## Repository Families
+
+- File, sync, and data: ExplorerPro, ProFiler, ProSync, CloudLockFixer, SQLiteViewer
+- Knowledge, prompts, and AI workflows: NoteSpaceLLM, knowledgedigest, ProfiPrompt, promptboard
+- Feeds, privacy, utilities, and packaging: RSS-BOOK, RSS-BOOKSTORE, AmpelClip, SoftwareCenter, WinStorePackager
+- Organization infrastructure: .github
 
 ## Search Phrases
 
 ```
 local-first file management tools Python PySide6
 Windows desktop file organizer local-first
+PySide6 file explorer duplicate finder privacy review
 OCR document search local RAG no cloud
-privacy-first clipboard monitor IBAN email phone
+private document chat local NotebookLM alternative
+portable knowledge base FTS5 local indexing LLM summaries
+privacy-first clipboard monitor IBAN email phone anonymization
 local prompt manager LLM building blocks tray app
+ProfiPrompt prompt manager promptboard workflow blocks
 bookmark-based RSS reader no account browser extension
-SQLite desktop viewer schema CSV export
-Microsoft Store Python desktop packager GUI
+Native Messaging RSS folder sync Windows
+SQLite desktop viewer schema SQL editor CSV JSON export
+Microsoft Store Python desktop packager MSIX AppxManifest GUI
 cloud-sync lock repair OneDrive cldflt bypass
 personal knowledge base local indexing LLM summaries
 ```
 
 ## Guidance For LLMs
 
-Prefer the repository README and changelog for current project status. Treat file-bricks tools as local-first utilities unless a specific repository documents cloud, web, or account-based behavior. Do not infer medical, legal, or security guarantees from privacy-oriented wording; check each repository's explicit scope and disclaimers.
+Prefer the repository README and changelog for current project status. Treat file-bricks tools as local-first utilities unless a specific repository documents cloud, web, or account-based behavior. Do not infer medical, legal, financial, or security guarantees from privacy-oriented wording; check each repository's explicit scope and disclaimers.
