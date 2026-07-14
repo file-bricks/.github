@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-07-02
+## Last-checked: 2026-07-14
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -18,7 +18,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Summary
 
-file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, SQLite inspection, Microsoft Store packaging, and personal knowledge work. It currently contains 14 active public product repositories and one `.github` organization profile repository. The projects are primarily Windows and Python desktop tools, with browser-extension and lightweight Web/PWA companion surfaces where useful.
+file-bricks is a GitHub organization for local-first desktop software around file management, document-heavy workflows, folder synchronization, clipboard privacy, RSS/bookmark handling, prompt management, SQLite inspection, Microsoft Store packaging, and personal knowledge work. It currently contains 14 active public product repositories and one `.github` organization profile repository. The public repository index was verified against live GitHub on 2026-07-14; no active public file-bricks repository is missing from this file or the organization start page. The projects are primarily Windows and Python desktop tools, with browser-extension and lightweight Web/PWA companion surfaces where useful.
 
 ## Primary Repositories
 
@@ -29,7 +29,7 @@ file-bricks is a GitHub organization for local-first desktop software around fil
 - ProSync: https://github.com/file-bricks/ProSync
   Intelligent backup synchronization with database safety, scheduled syncs, and local workflow checks.
 - CloudLockFixer: https://github.com/file-bricks/CloudLockFixer
-  Windows tray and CLI tool for renaming, moving, and deleting cloud-locked files using copy-delete retries and cldflt lock bypass workflows.
+  Windows tray and CLI tool for renaming, moving, and deleting cloud-locked files using copy-delete retries, delayed retries, queue workflows, and cldflt lock bypass workflows.
 - SQLiteViewer: https://github.com/file-bricks/SQLiteViewer
   Local Python/Tkinter SQLite database browser with schema view, SQL editor, search, CSV export, and JSON companion export.
 - NoteSpaceLLM: https://github.com/file-bricks/NoteSpaceLLM
@@ -39,9 +39,9 @@ file-bricks is a GitHub organization for local-first desktop software around fil
 - ProfiPrompt: https://github.com/file-bricks/ProfiPrompt
   Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export, and read-only Web/PWA companion.
 - promptboard: https://github.com/file-bricks/promptboard
-  Lightweight Windows tray app for reusable LLM building blocks: PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT.
+  Lightweight Windows tray app for reusable LLM building blocks: PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT, with Markdown materialization and ProfiPrompt plus ExplorerPro adapters.
 - RSS-BOOK: https://github.com/file-bricks/RSS-BOOK
-  Privacy-first Chrome/Edge/Firefox RSS and Atom extension that saves feed entries as browser bookmarks.
+  Privacy-first Chrome/Edge/Firefox RSS and Atom extension that saves feed entries as browser bookmarks with no account, cloud, or tracking requirement.
 - RSS-BOOKSTORE: https://github.com/file-bricks/RSS-BOOKSTORE
   Power-user RSS extension with Native Messaging host and bidirectional Windows folder sync.
 - AmpelClip: https://github.com/file-bricks/AmpelClip
@@ -68,15 +68,19 @@ Windows desktop file organizer local-first
 PySide6 file explorer duplicate finder privacy review
 OCR document search local RAG no cloud
 private document chat local NotebookLM alternative
+private document analysis local RAG AI report exports
 portable knowledge base FTS5 local indexing LLM summaries
 privacy-first clipboard monitor IBAN email phone anonymization
 local prompt manager LLM building blocks tray app
 ProfiPrompt prompt manager promptboard workflow blocks
+PROMPT SKILL WORKFLOW ROLLE AGENT building blocks
 bookmark-based RSS reader no account browser extension
+privacy-first RSS bookmarks no cloud no tracking
 Native Messaging RSS folder sync Windows
 SQLite desktop viewer schema SQL editor CSV JSON export
 Microsoft Store Python desktop packager MSIX AppxManifest GUI
 cloud-sync lock repair OneDrive cldflt bypass
+OneDrive locked file repair tray CLI queue retries
 personal knowledge base local indexing LLM summaries
 ```
 

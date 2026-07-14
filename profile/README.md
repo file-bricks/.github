@@ -1,13 +1,13 @@
 # file-bricks
-<!-- last-checked: 2026-07-02 -->
+<!-- last-checked: 2026-07-14 -->
 
 <img src="logo.jpg" alt="file-bricks logo" width="925">
 
 **Local-first desktop software for files, documents, prompts, feeds, cloud-sync repair, and personal knowledge work.**
 
-file-bricks builds open, inspectable Windows and cross-platform tools for people who want their working data to stay on their own machine first. The organization currently has 14 active public product repositories, plus this `.github` profile repository. The shared focus is local data ownership, fast search, practical automation, privacy checks, and optional AI only where it improves the task.
+file-bricks builds open, inspectable Windows and cross-platform tools for people who want their working data to stay on their own machine first. The organization currently has 14 active public product repositories, plus this `.github` profile repository. The shared focus is local data ownership, fast search, practical automation, privacy checks, and optional AI only where it improves the task. The public index below was verified against live GitHub on 2026-07-14 and covers every active public repository in the organization.
 
-Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, clipboard privacy monitor, Python Microsoft Store packaging, and personal knowledge-base tools.
+Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, private document chat, local RAG, prompt manager, LLM building blocks, RSS bookmarks, SQLite viewer, OneDrive lock repair, clipboard privacy monitor, Python Microsoft Store packaging, and personal knowledge-base tools.
 
 ## Start Here
 
@@ -20,6 +20,7 @@ Search terms this organization is built around: local-first desktop apps, PySide
 | Analyze private documents with local AI workflows | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Local NotebookLM-style document chat, RAG, and report exports |
 | Build reusable LLM building blocks | [promptboard](https://github.com/file-bricks/promptboard) | Tray app for PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks |
 | Maintain a personal prompt library | [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Desktop prompt manager for organizing, versioning, and exporting prompt assets |
+| Check clipboard content before sharing | [AmpelClip](https://github.com/file-bricks/AmpelClip) | Clipboard privacy monitor with traffic-light preview and anonymization support |
 | Read RSS without a cloud account | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | Privacy-first RSS and Atom reader that stores feeds as browser bookmarks |
 | Inspect SQLite databases locally | [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | Portable SQLite browser with schema view, SQL editor, search, CSV export, and JSON export |
 | Prepare Python apps for the Microsoft Store | [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | GUI for MSIX/AppxManifest generation, icons, screenshots, and Store submission assets |
@@ -57,7 +58,7 @@ Search terms this organization is built around: local-first desktop apps, PySide
 
 ## Repository Coverage
 
-This public index was verified against live GitHub on 2026-07-02 and covers every active public file-bricks repository:
+This public index was verified against live GitHub on 2026-07-14 and covers every active public file-bricks repository. No public file-bricks repository is missing from this start page or from [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt).
 
 | Area | Repositories |
 |---|---|
@@ -65,6 +66,17 @@ This public index was verified against live GitHub on 2026-07-02 and covers ever
 | Knowledge, prompts, and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt), [promptboard](https://github.com/file-bricks/promptboard) |
 | Feeds, privacy, utilities, and packaging | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organization infrastructure | [`.github`](https://github.com/file-bricks/.github) profile README, default community files, issue templates, and [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
+
+## Recent Public Activity
+
+| Repository | Latest public push | Why it matters |
+|---|---:|---|
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-07-14 | Private document analysis, local RAG, document chat, and report exports |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-07-14 | Clipboard privacy monitoring and anonymization for everyday sharing workflows |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-07-14 | Account-free RSS/Atom reading through browser bookmarks |
+| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-07-14 | OneDrive-style cloud-sync lock repair through tray, CLI, retries, and queue workflows |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-07-13 | Reusable LLM building blocks with Markdown materialization and adapters |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-07-13 | Local-first file exploration with previews, privacy checks, duplicate finding, and sync tools |
 
 ## Design Principles
 
