@@ -91,4 +91,6 @@ file-bricks is the file and knowledge-work branch of the broader brick ecosystem
 
 [open-bricks](https://github.com/open-bricks) | [doc-bricks](https://github.com/doc-bricks) | [dev-bricks](https://github.com/dev-bricks) | [ellmos-ai](https://github.com/ellmos-ai)
 
+[knowledgedigest](https://github.com/file-bricks/knowledgedigest) is the pinned document-search component of [ellmos-ai/ellmos-stack](https://github.com/ellmos-ai/ellmos-stack), and [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) connects to that same stack's local Ollama instance for private document chat.
+
 For machine-readable navigation, see [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt).
