@@ -1,0 +1,30 @@
+# MARKETING-LOG.txt — file-bricks/.github
+<!-- Last-updated: 2026-07-25 -->
+
+## Audit Summary (2026-07-25)
+
+The organization profile repository `file-bricks/.github` has been updated with:
+- Shields.io badges for public repos count (15), MIT license, Python 3.10+, PySide6, Local-First architecture, and LLM-Ready tags.
+- Full Public Repository Index (15 repositories) in Root `README.md`, `profile/README.md`, `profile/README_de.md`, and `llms.txt`.
+- GitHub Alert callouts (`> [!NOTE]`) for LLM agents and developer guidance.
+- English and German bilingual organization landing pages (`profile/README.md` and `profile/README_de.md`).
+
+## Non-Automated Marketing & Discoverability Recommendations
+
+1. **Animated GIFs / Video Previews for Product Repositories**:
+   - Create short 5-10 second demo GIFs showcasing key features for flagship repos (`ExplorerPro`, `NoteSpaceLLM`, `CloudLockFixer`, `AmpelClip`).
+   - Store demo GIFs in `assets/` subdirectories of individual product repos and link them in the profile README.
+
+2. **Microsoft Store Publishing (WinStorePackager)**:
+   - Use `WinStorePackager` to package select desktop apps (`AmpelClip`, `CloudLockFixer`, `ExplorerPro`) as MSIX for publishing on the Microsoft Store.
+   - Store links on organization landing page will significantly boost organic Windows desktop discoverability.
+
+3. **Chrome Web Store Listings (RSS-BOOK / RSS-BOOKSTORE)**:
+   - Publish `RSS-BOOK` on the official Chrome Web Store with taglines "Privacy-first RSS bookmarks" to capture browser extension search traffic.
+
+4. **Directory Submissions**:
+   - Submit `promptboard` and `ProfiPrompt` to AI tool directories (Glama, mcp.so, LobeHub, Smithery, awesome-mcp-servers).
+   - Submit `NoteSpaceLLM` to awesome-local-ai and awesome-rag lists.
+
+5. **Social Media & Community Announcements**:
+   - Post release notes on Reddit (`r/Python`, `r/LocalLLaMA`, `r/selfhosted`, `r/WindowsApps`) highlighting local-first privacy, no cloud lock-in, and open-source availability.
