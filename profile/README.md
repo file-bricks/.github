@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-07-25 -->
+<!-- last-checked: 2026-07-26 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -18,6 +18,38 @@
 > **file-bricks** builds open, inspectable Windows and cross-platform desktop applications for people who want their working data to stay on their own machine. The organization currently maintains **15 active public repositories** (14 product tools + 1 profile repository). The shared focus is local data ownership, fast search, practical automation, clipboard privacy, cloud-lock repair, and optional AI workflows.
 
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, clipboard monitor, and Microsoft Store packaging.
+
+---
+
+## Architecture & Ecosystem Map
+
+```mermaid
+graph TD
+    FB["file-bricks Ecosystem"] --> FILE["File, Sync & Data"]
+    FB --> KNOW["Knowledge, Docs & AI"]
+    FB --> UTIL["Feeds, Utilities & Store"]
+    FB --> INFRA["Infrastructure & Metadata"]
+
+    FILE --> EP["ExplorerPro (File Manager & Privacy)"]
+    FILE --> PF["ProFiler (OCR & Search Suite)"]
+    FILE --> PS["ProSync (Scheduled Backup Sync)"]
+    FILE --> CLF["CloudLockFixer (cldflt.sys Lock Repair)"]
+    FILE --> SQV["SQLiteViewer (DB Browser & Exports)"]
+
+    KNOW --> NSL["NoteSpaceLLM (Local RAG & Notebook)"]
+    KNOW --> KD["knowledgedigest (FTS5 Portable Index)"]
+    KNOW --> PB["promptboard (Tray LLM Building Blocks)"]
+    KNOW --> PP["ProfiPrompt (Desktop Prompt Manager)"]
+
+    UTIL --> RB["RSS-BOOK (Browser RSS Bookmarks)"]
+    UTIL --> RBS["RSS-BOOKSTORE (Native Host & Folder Sync)"]
+    UTIL --> AC["AmpelClip (Clipboard Privacy Guard)"]
+    UTIL --> SC["SoftwareCenter (Desktop Launcher)"]
+    UTIL --> WSP["WinStorePackager (MSIX Store GUI)"]
+
+    INFRA --> GH[".github (Profile & Workflows)"]
+    INFRA --> LLM["llms.txt (Machine-Readable Index)"]
+```
 
 ---
 
@@ -81,6 +113,9 @@ The public product index above covers all **15 active public file-bricks reposit
 | Knowledge and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
 | Feeds and utilities | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organization infrastructure | [`.github`](https://github.com/file-bricks/.github) profile README, default community files, workflow templates, and [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
+
+> [!TIP]
+> All repositories in `file-bricks` are designed with **inspectable file formats** (SQLite, JSON, Markdown) and support zero-dependency local execution. AI components operate strictly on opt-in local or user-configured endpoint models.
 
 ---
 

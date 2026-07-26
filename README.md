@@ -12,7 +12,7 @@
 
 ---
 
-## Current Public Index (2026-07-25)
+## Current Public Index (2026-07-26)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|

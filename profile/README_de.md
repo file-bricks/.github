@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-07-25 -->
+<!-- last-checked: 2026-07-26 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -18,6 +18,38 @@
 > **file-bricks** entwickelt quelloffene, transparente Windows- und plattformübergreifende Desktop-Anwendungen für Anwender, deren Arbeitsdaten primär auf dem eigenen Rechner verbleiben sollen. Die Organisation betreut aktuell **15 aktive öffentliche Repositories** (14 Produktwerkzeuge + 1 Organisationsprofil-Repository). Der gemeinsame Fokus liegt auf lokaler Datensouveränität, schneller Suche, praktischer Automatisierung, Datenschutz in der Zwischenablage, Cloud-Sync-Reparatur und optionalen KI-Workflows.
 
 Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, OCR Dokumenten-Suche, lokales RAG, Prompt-Manager, RSS-Lesezeichen, SQLite-Browser, OneDrive Datei-Sperren-Reparatur, Datenschutz-Tools, Zwischenablage-Monitor und Microsoft Store Verpackung.
+
+---
+
+## Architektur- & Ökosystem-Karte
+
+```mermaid
+graph TD
+    FB["file-bricks Ökosystem"] --> FILE["Datei, Sync & Daten"]
+    FB --> KNOW["Wissen, Dokumente & KI"]
+    FB --> UTIL["Feeds, Utilities & Store"]
+    FB --> INFRA["Infrastruktur & Metadaten"]
+
+    FILE --> EP["ExplorerPro (Dateimanager & Datenschutz)"]
+    FILE --> PF["ProFiler (OCR & Volltextsuche)"]
+    FILE --> PS["ProSync (Terminierter Backup-Sync)"]
+    FILE --> CLF["CloudLockFixer (cldflt.sys Sperren-Reparatur)"]
+    FILE --> SQV["SQLiteViewer (DB-Browser & Exporte)"]
+
+    KNOW --> NSL["NoteSpaceLLM (Lokales RAG & Notebook)"]
+    KNOW --> KD["knowledgedigest (FTS5 Portable Index)"]
+    KNOW --> PB["promptboard (Tray LLM-Bausteine)"]
+    KNOW --> PP["ProfiPrompt (Desktop Prompt-Manager)"]
+
+    UTIL --> RB["RSS-BOOK (Browser RSS-Lesezeichen)"]
+    UTIL --> RBS["RSS-BOOKSTORE (Native Host & Ordner-Sync)"]
+    UTIL --> AC["AmpelClip (Zwischenablage-Datenschutzwächter)"]
+    UTIL --> SC["SoftwareCenter (Desktop-Launcher)"]
+    UTIL --> WSP["WinStorePackager (MSIX Store GUI)"]
+
+    INFRA --> GH[".github (Profil & Workflows)"]
+    INFRA --> LLM["llms.txt (Maschinenlesbarer Index)"]
+```
 
 ---
 
@@ -81,6 +113,9 @@ Die obige Produktübersicht deckt alle **15 aktiven öffentlichen file-bricks Re
 | Wissen & KI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
 | Feeds & Dienstprogramme | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organisations-Infrastruktur | [`.github`](https://github.com/file-bricks/.github) Profil-README, Community-Standards, Workflow-Vorlagen und [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
+
+> [!TIP]
+> Alle Repositories in `file-bricks` basieren auf **transparenten Dateiformaten** (SQLite, JSON, Markdown) und erlauben einen abhaengigkeitsfreien Betrieb ohne Cloud-Zwang. KI-Komponenten arbeiten ausschliesslich mit opt-in lokalen oder benutzerdefinierten Modell-Endpunkten.
 
 ---
 
