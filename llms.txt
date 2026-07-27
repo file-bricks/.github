@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-07-26
+## Last-checked: 2026-07-27
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -49,6 +49,16 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): Local-first Windows clipboard privacy monitor with traffic-light preview, pattern detection, and anonymization support
 - [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): Lightweight cross-platform desktop organizer for software shortcuts with tab-based categorization
 - [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): Local-first Windows GUI for Python Microsoft Store MSIX packaging, AppxManifest generation, icons, and store assets
+
+## Current Public Activity
+
+Freshness snapshot from the public GitHub repository metadata on 2026-07-27:
+
+- [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer): public activity 2026-07-27
+- [`ProSync`](https://github.com/file-bricks/ProSync): public activity 2026-07-27
+- [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-07-27
+- [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro): public activity 2026-07-27
+- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-07-27
 
 ## Recommended Starting Points
 

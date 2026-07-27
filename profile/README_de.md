@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-07-26 -->
+<!-- last-checked: 2026-07-27 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -18,6 +18,18 @@
 > **file-bricks** entwickelt quelloffene, transparente Windows- und plattformübergreifende Desktop-Anwendungen für Anwender, deren Arbeitsdaten primär auf dem eigenen Rechner verbleiben sollen. Die Organisation betreut aktuell **15 aktive öffentliche Repositories** (14 Produktwerkzeuge + 1 Organisationsprofil-Repository). Der gemeinsame Fokus liegt auf lokaler Datensouveränität, schneller Suche, praktischer Automatisierung, Datenschutz in der Zwischenablage, Cloud-Sync-Reparatur und optionalen KI-Workflows.
 
 Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, OCR Dokumenten-Suche, lokales RAG, Prompt-Manager, RSS-Lesezeichen, SQLite-Browser, OneDrive Datei-Sperren-Reparatur, Datenschutz-Tools, Zwischenablage-Monitor und Microsoft Store Verpackung.
+
+## Aktuelle öffentliche Aktivität
+
+Die jüngste öffentliche Repository-Aktivität konzentriert sich derzeit auf `SQLiteViewer`, `ProSync`, `NoteSpaceLLM`, `ExplorerPro` und `ProFiler`. Dies ist nur ein Aktualitätssnapshot; das vollständige Verzeichnis mit 15 Repositories folgt darunter.
+
+| Repository | Jüngste öffentliche Aktivität |
+|---|---|
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-07-27 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-07-27 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-07-27 |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-07-27 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-07-27 |
 
 ---
 
@@ -115,7 +127,7 @@ Die obige Produktübersicht deckt alle **15 aktiven öffentlichen file-bricks Re
 | Organisations-Infrastruktur | [`.github`](https://github.com/file-bricks/.github) Profil-README, Community-Standards, Workflow-Vorlagen und [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
 
 > [!TIP]
-> Alle Repositories in `file-bricks` basieren auf **transparenten Dateiformaten** (SQLite, JSON, Markdown) und erlauben einen abhaengigkeitsfreien Betrieb ohne Cloud-Zwang. KI-Komponenten arbeiten ausschliesslich mit opt-in lokalen oder benutzerdefinierten Modell-Endpunkten.
+> Alle Repositories in `file-bricks` basieren auf **transparenten Dateiformaten** (SQLite, JSON, Markdown) und erlauben einen abhängigkeitsarmen Betrieb ohne Cloud-Zwang. KI-Komponenten arbeiten ausschließlich mit Opt-in-lokalen oder benutzerdefinierten Modell-Endpunkten.
 
 ---
 

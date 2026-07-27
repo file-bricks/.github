@@ -12,7 +12,7 @@
 
 ---
 
-## Current Public Index (2026-07-26)
+## Current Public Index (2026-07-27)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -31,6 +31,20 @@
 | [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | GUI tool for Python Microsoft Store MSIX packaging & manifest generation | Windows | Python, PySide6, MSIX |
 | [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
 | [`promptboard`](https://github.com/file-bricks/promptboard) | Windows tray app for reusable LLM building blocks & Markdown export | Windows | Python, PySide6, Tray |
+
+---
+
+## Current Public Activity
+
+The latest public repository activity is currently concentrated in `SQLiteViewer`, `ProSync`, `NoteSpaceLLM`, `ExplorerPro`, and `ProFiler`. The index above remains the canonical 15-repository directory; this snapshot is only a freshness signal.
+
+| Repository | Latest public activity |
+|---|---|
+| [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | 2026-07-27 |
+| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-07-27 |
+| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-07-27 |
+| [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | 2026-07-27 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-07-27 |
 
 ---
 

@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-07-26 -->
+<!-- last-checked: 2026-07-27 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -18,6 +18,18 @@
 > **file-bricks** builds open, inspectable Windows and cross-platform desktop applications for people who want their working data to stay on their own machine. The organization currently maintains **15 active public repositories** (14 product tools + 1 profile repository). The shared focus is local data ownership, fast search, practical automation, clipboard privacy, cloud-lock repair, and optional AI workflows.
 
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, clipboard monitor, and Microsoft Store packaging.
+
+## Current Public Activity
+
+The latest public repository activity is currently concentrated in `SQLiteViewer`, `ProSync`, `NoteSpaceLLM`, `ExplorerPro`, and `ProFiler`. This is a freshness snapshot; the complete 15-repository directory remains below.
+
+| Repository | Latest public activity |
+|---|---|
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-07-27 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-07-27 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-07-27 |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-07-27 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-07-27 |
 
 ---
 
