@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-07-30 -->
+<!-- last-checked: 2026-08-04 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -21,15 +21,15 @@ Search terms this organization is built around: local-first desktop apps, PySide
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `SQLiteViewer`, `ProSync`, `NoteSpaceLLM`, `ExplorerPro`, and `ProFiler`. This is a freshness snapshot; the complete 15-repository directory remains below.
+The latest public repository activity is currently concentrated in `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip`, and `knowledgedigest`. This is a freshness snapshot; the complete 15-repository directory remains below.
 
 | Repository | Latest public activity |
 |---|---|
-| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-07-27 |
-| [ProSync](https://github.com/file-bricks/ProSync) | 2026-07-27 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-07-27 |
-| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-07-27 |
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-07-27 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
+| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
 
 ---
 
