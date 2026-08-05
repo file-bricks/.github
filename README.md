@@ -12,7 +12,7 @@
 
 ---
 
-## Current Public Index (2026-08-04)
+## Current Public Index (2026-08-06)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -36,15 +36,15 @@
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip`, and `knowledgedigest`. The index above remains the canonical 15-repository directory; this snapshot is only a freshness signal.
+The latest public repository activity is currently concentrated in `ProFiler`, `NoteSpaceLLM`, `RSS-BOOK`, `ProSync`, and `AmpelClip`. The index above remains the canonical 15-repository directory; this snapshot is only a freshness signal.
 
 | Repository | Latest public activity |
 |---|---|
-| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
-| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
-| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
-| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
-| [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-08-05 |
+| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
+| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-08-05 |
+| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-08-05 |
+| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-05 |
 
 ---
 

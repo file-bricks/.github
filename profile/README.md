@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-04 -->
+<!-- last-checked: 2026-08-06 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -19,17 +19,29 @@
 
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, clipboard monitor, and Microsoft Store packaging.
 
+---
+
+## Tools
+
+All 14 product tools at a glance — the banners are the links; details in the tables below:
+
+<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner.svg" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/knowledgedigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/social-preview.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
+
+[SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) is listed in the tables below; it does not yet have its own banner artwork.
+
+---
+
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip`, and `knowledgedigest`. This is a freshness snapshot; the complete 15-repository directory remains below.
+The latest public repository activity is currently concentrated in `ProFiler`, `NoteSpaceLLM`, `RSS-BOOK`, `ProSync`, and `AmpelClip`. This is a freshness snapshot; the complete 15-repository directory remains below.
 
 | Repository | Latest public activity |
 |---|---|
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
-| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-05 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-08-05 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-08-05 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-05 |
 
 ---
 
