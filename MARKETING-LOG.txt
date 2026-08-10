@@ -1,5 +1,10 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-07-25 -->
+<!-- Last-updated: 2026-08-10 -->
+
+## Maintenance Readback (2026-08-10)
+
+- Local readback of `CHANGELOG.md`, `README.md`, `profile/README.md`, `profile/README_de.md`, and `llms.txt` confirms that the organization index and verification timestamps are aligned at 2026-08-04.
+- This MAINTAINER slice performed no new GitHub/API discovery; this entry records documentation consistency only.
 
 ## Audit Summary (2026-07-25)
 
