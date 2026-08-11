@@ -12,7 +12,11 @@
 
 ---
 
-## Current Public Index (2026-08-04)
+## Current Public Index (2026-08-11)
+
+Live GitHub readback on 2026-08-11 found **15 public repositories** and
+`archived=false` for all 15. The complete URL/archive-status readback is
+recorded in [`MARKETING-LOG.txt`](MARKETING-LOG.txt#live-github-indexactivity-readback-2026-08-11).
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -36,15 +40,18 @@
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip`, and `knowledgedigest`. The index above remains the canonical 15-repository directory; this snapshot is only a freshness signal.
+The latest public repository activity snapshot was read from GitHub on
+2026-08-11. The table shows the five repositories with the newest public
+pushes; it is a freshness signal, not a complete activity denominator. The
+index above remains the canonical 15-repository directory.
 
 | Repository | Latest public activity |
 |---|---|
-| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
-| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
-| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
-| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
-| [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-08-10 |
+| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-09 |
+| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-08-09 |
+| [`.github`](https://github.com/file-bricks/.github) | 2026-08-05 |
+| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
 
 ---
 

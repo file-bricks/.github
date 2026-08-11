@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-04 -->
+<!-- last-checked: 2026-08-11 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -17,19 +17,25 @@
 > [!NOTE]
 > **file-bricks** builds open, inspectable Windows and cross-platform desktop applications for people who want their working data to stay on their own machine. The organization currently maintains **15 active public repositories** (14 product tools + 1 profile repository). The shared focus is local data ownership, fast search, practical automation, clipboard privacy, cloud-lock repair, and optional AI workflows.
 
+Live GitHub readback on 2026-08-11 confirms **15 public repositories** and no
+archived repository. The complete URL/archive-status table is recorded in
+[`MARKETING-LOG.txt`](../MARKETING-LOG.txt#live-github-indexactivity-readback-2026-08-11).
+
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, clipboard monitor, and Microsoft Store packaging.
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip`, and `knowledgedigest`. This is a freshness snapshot; the complete 15-repository directory remains below.
+The latest public repository activity was read from GitHub on 2026-08-11. This
+top-five list is a freshness snapshot; the complete 15-repository directory
+remains below.
 
 | Repository | Latest public activity |
 |---|---|
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
-| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-10 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-09 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-09 |
+| [`.github`](https://github.com/file-bricks/.github) | 2026-08-05 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
 
 ---
 

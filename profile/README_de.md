@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-04 -->
+<!-- last-checked: 2026-08-11 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -17,19 +17,26 @@
 > [!NOTE]
 > **file-bricks** entwickelt quelloffene, transparente Windows- und plattformübergreifende Desktop-Anwendungen für Anwender, deren Arbeitsdaten primär auf dem eigenen Rechner verbleiben sollen. Die Organisation betreut aktuell **15 aktive öffentliche Repositories** (14 Produktwerkzeuge + 1 Organisationsprofil-Repository). Der gemeinsame Fokus liegt auf lokaler Datensouveränität, schneller Suche, praktischer Automatisierung, Datenschutz in der Zwischenablage, Cloud-Sync-Reparatur und optionalen KI-Workflows.
 
+Der GitHub-Live-Readback vom 11.08.2026 bestätigt **15 öffentliche
+Repositories**; keines ist archiviert. Die vollständige Tabelle mit URLs,
+Archivstatus und Push-Zeitpunkten steht im
+[`MARKETING-LOG.txt`](../MARKETING-LOG.txt#live-github-indexactivity-readback-2026-08-11).
+
 Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, OCR Dokumenten-Suche, lokales RAG, Prompt-Manager, RSS-Lesezeichen, SQLite-Browser, OneDrive Datei-Sperren-Reparatur, Datenschutz-Tools, Zwischenablage-Monitor und Microsoft Store Verpackung.
 
 ## Aktuelle öffentliche Aktivität
 
-Die jüngste öffentliche Repository-Aktivität konzentriert sich derzeit auf `WinStorePackager`, `NoteSpaceLLM`, `ProfiPrompt`, `AmpelClip` und `knowledgedigest`. Dies ist nur ein Aktualitätssnapshot; das vollständige Verzeichnis mit 15 Repositories folgt darunter.
+Die jüngste öffentliche Repository-Aktivität wurde am 11.08.2026 live von
+GitHub gelesen. Die folgende Top-Fünf-Liste ist nur ein Aktualitätssnapshot;
+das vollständige Verzeichnis mit 15 Repositories folgt darunter.
 
 | Repository | Jüngste öffentliche Aktivität |
 |---|---|
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-03 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-03 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-03 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-03 |
-| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | 2026-08-01 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-10 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-09 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-09 |
+| [`.github`](https://github.com/file-bricks/.github) | 2026-08-05 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
 
 ---
 
