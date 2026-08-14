@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-06 -->
+<!-- last-checked: 2026-08-14 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -21,6 +21,13 @@ Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, O
 
 ---
 
+Der GitHub-Live-Readback vom 14.08.2026 bestätigt **15 öffentliche
+Repositories**; keines ist archiviert. Das vollständige Verzeichnis unten
+bleibt der kanonische öffentliche Index; die Aktivitätstabelle ist nur ein
+Aktualitätssnapshot.
+
+---
+
 ## Werkzeuge
 
 Alle 14 Produktwerkzeuge auf einen Blick — die Banner sind die Links; Details in den Tabellen darunter:
@@ -33,15 +40,17 @@ Alle 14 Produktwerkzeuge auf einen Blick — die Banner sind die Links; Details 
 
 ## Aktuelle öffentliche Aktivität
 
-Die jüngste öffentliche Repository-Aktivität konzentriert sich derzeit auf `ProFiler`, `NoteSpaceLLM`, `RSS-BOOK`, `ProSync` und `AmpelClip`. Dies ist nur ein Aktualitätssnapshot; das vollständige Verzeichnis mit 15 Repositories folgt darunter.
+Die jüngste öffentliche Repository-Aktivität wurde am 14.08.2026 live von
+GitHub gelesen. Die folgende Top-Fünf-Liste ist nur ein Aktualitätssnapshot;
+das vollständige Verzeichnis mit 15 Repositories folgt darunter.
 
 | Repository | Jüngste öffentliche Aktivität |
 |---|---|
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-05 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
-| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-08-05 |
-| [ProSync](https://github.com/file-bricks/ProSync) | 2026-08-05 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-05 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-14 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
 
 ---
 

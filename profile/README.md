@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-06 -->
+<!-- last-checked: 2026-08-14 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -21,6 +21,12 @@ Search terms this organization is built around: local-first desktop apps, PySide
 
 ---
 
+Live GitHub readback on 2026-08-14 confirms **15 public repositories** and no
+archived repository. The complete 15-repository directory below remains the
+canonical public index; the activity table is only a freshness snapshot.
+
+---
+
 ## Tools
 
 All 14 product tools at a glance — the banners are the links; details in the tables below:
@@ -33,15 +39,17 @@ All 14 product tools at a glance — the banners are the links; details in the t
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `ProFiler`, `NoteSpaceLLM`, `RSS-BOOK`, `ProSync`, and `AmpelClip`. This is a freshness snapshot; the complete 15-repository directory remains below.
+The latest public repository activity was read from GitHub on 2026-08-14. This
+top-five list is a freshness snapshot; the complete 15-repository directory
+remains below.
 
 | Repository | Latest public activity |
 |---|---|
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-05 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
-| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-08-05 |
-| [ProSync](https://github.com/file-bricks/ProSync) | 2026-08-05 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-05 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-14 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
 
 ---
 

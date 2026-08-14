@@ -12,7 +12,11 @@
 
 ---
 
-## Current Public Index (2026-08-06)
+## Current Public Index (2026-08-14)
+
+Live GitHub readback on 2026-08-14 found **15 public repositories** and
+`archived=false` for all 15. The complete repository directory below remains
+the canonical public index for the organization profile.
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -36,15 +40,18 @@
 
 ## Current Public Activity
 
-The latest public repository activity is currently concentrated in `ProFiler`, `NoteSpaceLLM`, `RSS-BOOK`, `ProSync`, and `AmpelClip`. The index above remains the canonical 15-repository directory; this snapshot is only a freshness signal.
+The latest public repository activity was read from GitHub on 2026-08-14. The
+table shows the five repositories with the newest public pushes; it is a
+freshness signal, not a complete activity denominator. The index above remains
+the canonical 15-repository directory.
 
 | Repository | Latest public activity |
 |---|---|
-| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-08-05 |
-| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
-| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-08-05 |
-| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-08-05 |
-| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-05 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
+| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
+| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-08-14 |
+| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
+| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
 
 ---
 

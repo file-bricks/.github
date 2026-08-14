@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-08-06
+## Last-checked: 2026-08-14
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -52,13 +52,13 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Current Public Activity
 
-Freshness snapshot from the public GitHub repository metadata on 2026-08-06:
+Freshness snapshot from the public GitHub repository metadata on 2026-08-14:
 
-- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-08-05
-- [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-08-05
-- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-08-05
-- [`ProSync`](https://github.com/file-bricks/ProSync): public activity 2026-08-05
-- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-08-05
+- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-08-14
+- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-08-14
+- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-08-14
+- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-14
+- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-08-14
 
 ## Recommended Starting Points
 
