@@ -43,7 +43,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ### Knowledge, Documents And AI Workflows
 - [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): Local NotebookLM alternative for private document analysis, local RAG, document chat, and AI report exports
-- [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): Portable knowledge database with PySide6 GUI and web viewer (indexes PDF, DOCX, TXT, MD, HTML with FTS5 search)
+- [`knowledgedigest`](https://github.com/file-bricks/KnowledgeDigest): Portable knowledge database with PySide6 GUI and web viewer (indexes PDF, DOCX, TXT, MD, HTML with FTS5 search)
 - [`promptboard`](https://github.com/file-bricks/promptboard): Lightweight Windows tray app for reusable LLM building blocks (PROMPT/SKILL/WORKFLOW/ROLLE/AGENT) with Markdown materialization
 - [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export, and a read-only Web/PWA companion
 

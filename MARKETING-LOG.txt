@@ -13,7 +13,7 @@
 | `AmpelClip` | https://github.com/file-bricks/AmpelClip | false | 2026-08-05T21:40:18Z | [9749b248e432](https://github.com/file-bricks/AmpelClip/commit/9749b248e432f01e8a704d4d803c1d8d24c1c8c8) |
 | `CloudLockFixer` | https://github.com/file-bricks/CloudLockFixer | false | 2026-07-26T14:19:11Z | [b1aa1c6fa822](https://github.com/file-bricks/CloudLockFixer/commit/b1aa1c6fa8221690d4da2fe70c3c5596cbb1f060) |
 | `ExplorerPro` | https://github.com/file-bricks/ExplorerPro | false | 2026-07-27T02:15:41Z | [d512fe2a4b60](https://github.com/file-bricks/ExplorerPro/commit/d512fe2a4b606b157d684c07da59fe3569ffbf38) |
-| `knowledgedigest` | https://github.com/file-bricks/knowledgedigest | false | 2026-08-05T21:40:15Z | [a006f4bee5fa](https://github.com/file-bricks/knowledgedigest/commit/a006f4bee5fa397685d19f948d7c3f953d9e6c8b) |
+| `knowledgedigest` | https://github.com/file-bricks/KnowledgeDigest | false | 2026-08-05T21:40:15Z | [a006f4bee5fa](https://github.com/file-bricks/KnowledgeDigest/commit/a006f4bee5fa397685d19f948d7c3f953d9e6c8b) |
 | `NoteSpaceLLM` | https://github.com/file-bricks/NoteSpaceLLM | false | 2026-08-05T21:40:23Z | [7ffd4c12dcc5](https://github.com/file-bricks/NoteSpaceLLM/commit/7ffd4c12dcc55a9fb6b937a518d9fe47e9d73cb2) |
 | `ProFiler` | https://github.com/file-bricks/ProFiler | false | 2026-08-10T15:19:45Z | [80e91e371df6](https://github.com/file-bricks/ProFiler/commit/80e91e371df64f999112e08ecc0c05a584da8dc1) |
 | `ProfiPrompt` | https://github.com/file-bricks/ProfiPrompt | false | 2026-08-03T13:35:18Z | [6dff09c6951e](https://github.com/file-bricks/ProfiPrompt/commit/6dff09c6951e8057bf79e177c6eb64050f110de1) |

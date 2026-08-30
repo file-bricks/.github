@@ -33,7 +33,7 @@ recorded in [`MARKETING-LOG.txt`](MARKETING-LOG.txt#live-github-indexactivity-re
 | [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | Local-first SQLite database browser with CSV & JSON exports | Windows / Cross-platform | Python, Tkinter, JS |
 | [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | Desktop application launcher & shortcut organizer | Windows / Cross-platform | Python, PySide6 |
 | [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | GUI tool for Python Microsoft Store MSIX packaging & manifest generation | Windows | Python, PySide6, MSIX |
-| [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
+| [`knowledgedigest`](https://github.com/file-bricks/KnowledgeDigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
 | [`promptboard`](https://github.com/file-bricks/promptboard) | Windows tray app for reusable LLM building blocks & Markdown export | Windows | Python, PySide6, Tray |
 
 ---

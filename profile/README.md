@@ -77,7 +77,7 @@ graph TD
 |---|---|---|
 | Explore, preview, and organize local files | [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | Advanced file browser with preview panels, privacy monitoring, and sync-aware workflows |
 | Search and manage document-heavy folders | [ProFiler](https://github.com/file-bricks/ProFiler) | File management suite with full-text search, OCR, and document workflows |
-| Index and digest document knowledge bases | [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | Portable SQLite FTS5 document database with GUI and Web viewer |
+| Index and digest document knowledge bases | [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest) | Portable SQLite FTS5 document database with GUI and Web viewer |
 | Keep folders and backups synchronized | [ProSync](https://github.com/file-bricks/ProSync) | Scheduled sync with database safety and backup-oriented workflows |
 | Repair files blocked by cloud-sync locks | [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | Windows tray and CLI tool for copy-delete retries in OneDrive-style locked folders |
 | Monitor clipboard privacy & anonymize text | [AmpelClip](https://github.com/file-bricks/AmpelClip) | Clipboard guard with traffic-light workflow and offline PWA companion |
@@ -105,7 +105,7 @@ graph TD
 | App | Description |
 |---|---|
 | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Local, privacy-first alternative to notebook-style document analysis tools |
-| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | Portable knowledge database with local indexing, search, and optional LLM summaries |
+| [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest) | Portable knowledge database with local indexing, search, and optional LLM summaries |
 | [promptboard](https://github.com/file-bricks/promptboard) | Lightweight tray app for reusable LLM building blocks with Markdown materialization |
 | [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Desktop prompt manager for reusable PROMPT, SKILL, WORKFLOW, ROLLE, and AGENT blocks |
 
@@ -128,7 +128,7 @@ The public product index above covers all **15 active public file-bricks reposit
 | Area | Repositories |
 |---|---|
 | File, sync, and data | [ExplorerPro](https://github.com/file-bricks/ExplorerPro), [ProFiler](https://github.com/file-bricks/ProFiler), [ProSync](https://github.com/file-bricks/ProSync), [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer), [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) |
-| Knowledge and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
+| Knowledge and AI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
 | Feeds and utilities | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organization infrastructure | [`.github`](https://github.com/file-bricks/.github) profile README, default community files, workflow templates, and [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
 
