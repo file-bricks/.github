@@ -1,38 +1,27 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-08-11 -->
+<!-- Last-updated: 2026-08-14 -->
 
-## Live GitHub Index/Activity Readback (2026-08-11)
+## Live GitHub Index/Activity Readback (2026-08-14)
 
-**Read at:** `2026-08-11T11:38:47Z`
-**Method:** Public GitHub REST metadata, read-only: `GET /orgs/file-bricks/repos?type=public&per_page=100&sort=full_name`; for each repository, `GET /repos/file-bricks/<name>/commits?per_page=1`.
-**Result:** 15 public repositories; all 15 have `archived=false`. `pushed_at` and the latest default-branch commit are recorded below. This table is the canonical live denominator; the top-five activity lists in the four public surfaces are only freshness snapshots.
+**Read at:** `2026-08-14T23:57:42+02:00`
+**Method:** GitHub CLI metadata readback for `file-bricks` public repositories.
+**Result:** 15 public repositories; all 15 have `archived=false`. The complete
+repository-name/URL set remains covered by `README.md`, `profile/README.md`,
+`profile/README_de.md`, and `llms.txt`.
 
-| Repository | Public URL | Archived | Latest public push (UTC) | Latest commit |
-|---|---|---:|---|---|
-| `.github` | https://github.com/file-bricks/.github | false | 2026-08-05T22:52:52Z | [71d9cfadf8d6](https://github.com/file-bricks/.github/commit/71d9cfadf8d67b1855a32dd4ba367d1c428c97ed) |
-| `AmpelClip` | https://github.com/file-bricks/AmpelClip | false | 2026-08-05T21:40:18Z | [9749b248e432](https://github.com/file-bricks/AmpelClip/commit/9749b248e432f01e8a704d4d803c1d8d24c1c8c8) |
-| `CloudLockFixer` | https://github.com/file-bricks/CloudLockFixer | false | 2026-07-26T14:19:11Z | [b1aa1c6fa822](https://github.com/file-bricks/CloudLockFixer/commit/b1aa1c6fa8221690d4da2fe70c3c5596cbb1f060) |
-| `ExplorerPro` | https://github.com/file-bricks/ExplorerPro | false | 2026-07-27T02:15:41Z | [d512fe2a4b60](https://github.com/file-bricks/ExplorerPro/commit/d512fe2a4b606b157d684c07da59fe3569ffbf38) |
-| `knowledgedigest` | https://github.com/file-bricks/KnowledgeDigest | false | 2026-08-05T21:40:15Z | [a006f4bee5fa](https://github.com/file-bricks/KnowledgeDigest/commit/a006f4bee5fa397685d19f948d7c3f953d9e6c8b) |
-| `NoteSpaceLLM` | https://github.com/file-bricks/NoteSpaceLLM | false | 2026-08-05T21:40:23Z | [7ffd4c12dcc5](https://github.com/file-bricks/NoteSpaceLLM/commit/7ffd4c12dcc55a9fb6b937a518d9fe47e9d73cb2) |
-| `ProFiler` | https://github.com/file-bricks/ProFiler | false | 2026-08-10T15:19:45Z | [80e91e371df6](https://github.com/file-bricks/ProFiler/commit/80e91e371df64f999112e08ecc0c05a584da8dc1) |
-| `ProfiPrompt` | https://github.com/file-bricks/ProfiPrompt | false | 2026-08-03T13:35:18Z | [6dff09c6951e](https://github.com/file-bricks/ProfiPrompt/commit/6dff09c6951e8057bf79e177c6eb64050f110de1) |
-| `ProSync` | https://github.com/file-bricks/ProSync | false | 2026-08-05T21:40:20Z | [f8b70c5687c6](https://github.com/file-bricks/ProSync/commit/f8b70c5687c6546831af69d7d6d654241c74f81d) |
-| `promptboard` | https://github.com/file-bricks/promptboard | false | 2026-08-09T21:53:52Z | [be5bcd3bad93](https://github.com/file-bricks/promptboard/commit/be5bcd3bad93601b567a9155d6fa42bbb9b1e7e8) |
-| `RSS-BOOK` | https://github.com/file-bricks/RSS-BOOK | false | 2026-08-05T21:40:22Z | [d0840eec3b9a](https://github.com/file-bricks/RSS-BOOK/commit/d0840eec3b9a7d7f091629af9c488176b6e83a25) |
-| `RSS-BOOKSTORE` | https://github.com/file-bricks/RSS-BOOKSTORE | false | 2026-07-27T19:50:13Z | [9c9ffa296a91](https://github.com/file-bricks/RSS-BOOKSTORE/commit/9c9ffa296a917886cbe70c5d9045aeb5f5918269) |
-| `SoftwareCenter` | https://github.com/file-bricks/SoftwareCenter | false | 2026-08-04T18:55:15Z | [567fb6022bd4](https://github.com/file-bricks/SoftwareCenter/commit/567fb6022bd4fac2d5b2723008b476cb797c3610) |
-| `SQLiteViewer` | https://github.com/file-bricks/SQLiteViewer | false | 2026-07-27T13:17:30Z | [d832fd1e2060](https://github.com/file-bricks/SQLiteViewer/commit/d832fd1e20607c9635fc38cef55f76a066593362) |
-| `WinStorePackager` | https://github.com/file-bricks/WinStorePackager | false | 2026-08-09T23:31:11Z | [e28b2d85c946](https://github.com/file-bricks/WinStorePackager/commit/e28b2d85c946a7811da2ebe5609253f155b45727) |
+Top-five public activity snapshot:
 
-**Synchronization check:** The complete repository-name/URL set remains
-15/15-parity across root README, both profile READMEs, and `llms.txt`. No
-GitHub write, push, release, or publication was performed.
+| Repository | Latest public push (UTC) |
+|---|---|
+| `ProFiler` | 2026-08-14T20:26:11Z |
+| `AmpelClip` | 2026-08-14T19:13:33Z |
+| `promptboard` | 2026-08-14T14:49:59Z |
+| `WinStorePackager` | 2026-08-14T13:12:49Z |
+| `ProfiPrompt` | 2026-08-14T12:52:21Z |
 
-## Maintenance Readback (2026-08-10)
-
-- Local readback of `CHANGELOG.md`, `README.md`, `profile/README.md`, `profile/README_de.md`, and `llms.txt` confirms that the organization index and verification timestamps are aligned at 2026-08-04.
-- This MAINTAINER slice performed no new GitHub/API discovery; this entry records documentation consistency only.
+**Design/readability note:** The remote profile already includes a visual banner
+showcase for 13 product tools and a clear `SoftwareCenter` no-banner note. This
+run preserved that professional layout and only refreshed live metadata.
 
 ## Audit Summary (2026-07-25)
 

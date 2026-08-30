@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-08-11 -->
+<!-- last-checked: 2026-08-14 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -17,25 +17,39 @@
 > [!NOTE]
 > **file-bricks** builds open, inspectable Windows and cross-platform desktop applications for people who want their working data to stay on their own machine. The organization currently maintains **15 active public repositories** (14 product tools + 1 profile repository). The shared focus is local data ownership, fast search, practical automation, clipboard privacy, cloud-lock repair, and optional AI workflows.
 
-Live GitHub readback on 2026-08-11 confirms **15 public repositories** and no
-archived repository. The complete URL/archive-status table is recorded in
-[`MARKETING-LOG.txt`](../MARKETING-LOG.txt#live-github-indexactivity-readback-2026-08-11).
-
 Search terms this organization is built around: local-first desktop apps, PySide6 file manager, OCR document search, local RAG, prompt manager, RSS bookmarks, SQLite viewer, OneDrive lock repair, privacy tools, clipboard monitor, and Microsoft Store packaging.
+
+---
+
+Live GitHub readback on 2026-08-14 confirms **15 public repositories** and no
+archived repository. The complete 15-repository directory below remains the
+canonical public index; the activity table is only a freshness snapshot.
+
+---
+
+## Tools
+
+All 14 product tools at a glance — the banners are the links; details in the tables below:
+
+<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner.svg" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/KnowledgeDigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/social-preview.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
+
+[SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) is listed in the tables below; it does not yet have its own banner artwork.
+
+---
 
 ## Current Public Activity
 
-The latest public repository activity was read from GitHub on 2026-08-11. This
+The latest public repository activity was read from GitHub on 2026-08-14. This
 top-five list is a freshness snapshot; the complete 15-repository directory
 remains below.
 
 | Repository | Latest public activity |
 |---|---|
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-10 |
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-09 |
-| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-09 |
-| [`.github`](https://github.com/file-bricks/.github) | 2026-08-05 |
-| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-08-05 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-14 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
 
 ---
 

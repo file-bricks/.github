@@ -1,10 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-08-11
-
-Live public-repository readback (2026-08-11): 15 public repositories, none
-archived. The complete URL/archive/push table is recorded in
-`MARKETING-LOG.txt`.
+## Last-checked: 2026-08-14
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -56,14 +52,13 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Current Public Activity
 
-Top-five freshness snapshot from a read-only public GitHub metadata readback on
-2026-08-11; this is not a complete activity list:
+Freshness snapshot from the public GitHub repository metadata on 2026-08-14:
 
-- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-08-10
-- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-09
-- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-08-09
-- [`.github`](https://github.com/file-bricks/.github): public activity 2026-08-05
-- [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-08-05
+- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-08-14
+- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-08-14
+- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-08-14
+- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-14
+- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-08-14
 
 ## Recommended Starting Points
 
