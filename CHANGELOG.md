@@ -2,6 +2,11 @@
 
 All notable changes to the `file-bricks` organization profile repository and shared health assets will be documented in this file.
 
+## [1.1.0] - 2026-09-07
+
+### Added
+- **Repository Index**: Added [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) to the canonical public repository directory (16 public repositories total).
+
 ## [Unreleased] - 2026-08-14
 
 ### Updated

@@ -25,7 +25,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 - Clipboard privacy: offline detection and redacting of sensitive patterns (IBAN, card numbers, email, phone)
 - Knowledge indexing: FTS5 SQLite full-text search over PDF, DOCX, TXT, MD, HTML without external services
 
-## Repository Index (15 Public Repositories)
+## Repository Index (16 Public Repositories)
 
 ### Organization Infrastructure
 - [`.github`](https://github.com/file-bricks/.github): Organization profile READMEs, shared community health files, issue/PR templates, and `llms.txt` machine index
@@ -47,6 +47,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 - [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): Privacy-first Chrome Web Store RSS/Atom extension that saves feed entries as browser bookmarks
 - [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE): Power-user browser extension for RSS/Atom feeds with Native Messaging host and bidirectional Windows folder sync
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): Local-first Windows clipboard privacy monitor with traffic-light preview, pattern detection, and anonymization support
+- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): Workspace organizer and launcher for desktop environments; sister product of SoftwareCenter
 - [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): Lightweight cross-platform desktop organizer for software shortcuts with tab-based categorization
 - [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): Local-first Windows GUI for Python Microsoft Store MSIX packaging, AppxManifest generation, icons, and store assets
 

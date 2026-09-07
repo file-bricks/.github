@@ -1,6 +1,6 @@
 # file-bricks .github
 
-[![Public Repos](https://img.shields.io/badge/Public_Repos-15-blue.svg)](https://github.com/file-bricks)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-16-blue.svg)](https://github.com/file-bricks)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](SECURITY.md)
 [![Local-First](https://img.shields.io/badge/Architecture-Local--First-orange.svg)](https://github.com/file-bricks)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
@@ -31,6 +31,7 @@ the canonical public index for the organization profile.
 | [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | Privacy-first Chrome Web Store RSS extension saving feeds as bookmarks | Chromium Browsers | JavaScript (MV3) |
 | [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE) | Power-user RSS reader with Native Host & Windows folder sync | Windows / Browser | JS, Python Native Host |
 | [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | Local-first SQLite database browser with CSV & JSON exports | Windows / Cross-platform | Python, Tkinter, JS |
+| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | Workspace organizer and launcher; sister product of SoftwareCenter | Windows / Cross-platform | Python, PySide6 |
 | [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | Desktop application launcher & shortcut organizer | Windows / Cross-platform | Python, PySide6 |
 | [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | GUI tool for Python Microsoft Store MSIX packaging & manifest generation | Windows | Python, PySide6, MSIX |
 | [`knowledgedigest`](https://github.com/file-bricks/KnowledgeDigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
@@ -43,7 +44,7 @@ the canonical public index for the organization profile.
 The latest public repository activity was read from GitHub on 2026-08-14. The
 table shows the five repositories with the newest public pushes; it is a
 freshness signal, not a complete activity denominator. The index above remains
-the canonical 15-repository directory.
+the canonical 16-repository directory.
 
 | Repository | Latest public activity |
 |---|---|
