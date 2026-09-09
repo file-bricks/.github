@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-08-14
+## Last-checked: 2026-09-09
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -39,7 +39,7 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ### Knowledge, Documents And AI Workflows
 - [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): Local NotebookLM alternative for private document analysis, local RAG, document chat, and AI report exports
-- [`knowledgedigest`](https://github.com/file-bricks/KnowledgeDigest): Portable knowledge database with PySide6 GUI and web viewer (indexes PDF, DOCX, TXT, MD, HTML with FTS5 search)
+- [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): Portable knowledge database with PySide6 GUI and web viewer (indexes PDF, DOCX, TXT, MD, HTML with FTS5 search)
 - [`promptboard`](https://github.com/file-bricks/promptboard): Lightweight Windows tray app for reusable LLM building blocks (PROMPT/SKILL/WORKFLOW/ROLLE/AGENT) with Markdown materialization
 - [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): Local-first PySide6 prompt manager with versions, boards, clipboard modes, JSON export, and a read-only Web/PWA companion
 
@@ -47,19 +47,21 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 - [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): Privacy-first Chrome Web Store RSS/Atom extension that saves feed entries as browser bookmarks
 - [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE): Power-user browser extension for RSS/Atom feeds with Native Messaging host and bidirectional Windows folder sync
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): Local-first Windows clipboard privacy monitor with traffic-light preview, pattern detection, and anonymization support
-- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): Workspace organizer and launcher for desktop environments; sister product of SoftwareCenter
 - [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): Lightweight cross-platform desktop organizer for software shortcuts with tab-based categorization
+- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): Tab-based workspace application launcher and sister project to SoftwareCenter for organizing desktop shortcuts into topic boards
 - [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): Local-first Windows GUI for Python Microsoft Store MSIX packaging, AppxManifest generation, icons, and store assets
 
 ## Current Public Activity
 
-Freshness snapshot from the public GitHub repository metadata on 2026-08-14:
+Freshness snapshot from the public GitHub repository metadata on 2026-09-09:
 
-- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-08-14
-- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-08-14
-- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-08-14
-- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-14
-- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-08-14
+- [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer): public activity 2026-09-05
+- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-09-05
+- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-09-05
+- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-09-03
+- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-23
+- [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer): public activity 2026-08-23
+- [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): public activity 2026-08-22
 
 ## Recommended Starting Points
 
@@ -69,3 +71,5 @@ Freshness snapshot from the public GitHub repository metadata on 2026-08-14:
 - For local document RAG & notebook analysis: [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM)
 - For prompt engineering & LLM building blocks: [promptboard](https://github.com/file-bricks/promptboard) or [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt)
 - For privacy-first RSS workflows: [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK)
+- For workspace application launcher & quick-launch boards: [LaunchBoards](https://github.com/file-bricks/LaunchBoards) or [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter)
+- For Microsoft Store MSIX packaging: [WinStorePackager](https://github.com/file-bricks/WinStorePackager)

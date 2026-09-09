@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-09-07 -->
+<!-- last-checked: 2026-09-09 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-16-blue.svg)](https://github.com/file-bricks)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -17,14 +17,7 @@
 > [!NOTE]
 > **file-bricks** entwickelt quelloffene, transparente Windows- und plattformübergreifende Desktop-Anwendungen für Anwender, deren Arbeitsdaten primär auf dem eigenen Rechner verbleiben sollen. Die Organisation betreut aktuell **16 aktive öffentliche Repositories** (15 Produktwerkzeuge + 1 Organisationsprofil-Repository). Der gemeinsame Fokus liegt auf lokaler Datensouveränität, schneller Suche, praktischer Automatisierung, Datenschutz in der Zwischenablage, Cloud-Sync-Reparatur und optionalen KI-Workflows.
 
-Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, OCR Dokumenten-Suche, lokales RAG, Prompt-Manager, RSS-Lesezeichen, SQLite-Browser, OneDrive Datei-Sperren-Reparatur, Datenschutz-Tools, Zwischenablage-Monitor und Microsoft Store Verpackung.
-
----
-
-Der GitHub-Live-Readback vom 14.08.2026 bestätigt **16 öffentliche
-Repositories**; keines ist archiviert. Das vollständige Verzeichnis unten
-bleibt der kanonische öffentliche Index; die Aktivitätstabelle ist nur ein
-Aktualitätssnapshot.
+Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, OCR Dokumenten-Suche, lokales RAG, Prompt-Manager, RSS-Lesezeichen, SQLite-Browser, OneDrive Datei-Sperren-Reparatur, Datenschutz-Tools, Zwischenablage-Monitor, Workspace-Starter, Tab-Verknüpfungs-Manager und Microsoft Store Verpackung.
 
 ---
 
@@ -32,25 +25,25 @@ Aktualitätssnapshot.
 
 Alle 15 Produktwerkzeuge auf einen Blick — die Banner sind die Links; Details in den Tabellen darunter:
 
-<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner.svg" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/KnowledgeDigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/social-preview.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
+<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner.svg" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/knowledgedigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/social-preview.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SoftwareCenter"><img src="https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner.svg" alt="SoftwareCenter" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
 
-[SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) und [LaunchBoards](https://github.com/file-bricks/LaunchBoards) sind in den Tabellen darunter aufgeführt; sie haben noch kein eigenes Banner-Artwork.
+[LaunchBoards](https://github.com/file-bricks/LaunchBoards) ist das Schwesterprodukt von [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), das Desktop-Verknüpfungen in thematischen Schnellstart-Boards organisiert und dieselbe zuverlässige Desktop-Engine teilt.
 
 ---
 
 ## Aktuelle öffentliche Aktivität
 
-Die jüngste öffentliche Repository-Aktivität wurde am 14.08.2026 live von
-GitHub gelesen. Die folgende Top-Fünf-Liste ist nur ein Aktualitätssnapshot;
-das vollständige Verzeichnis mit 16 Repositories folgt darunter.
+Die jüngste öffentliche Repository-Aktivität über ganz `file-bricks` spiegelt kontinuierliche Pflege und Ausbau wider. Dies ist ein Aktualitätssnapshot; das vollständige Verzeichnis mit allen 16 Repositories folgt darunter.
 
 | Repository | Jüngste öffentliche Aktivität |
 |---|---|
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
-| [promptboard](https://github.com/file-bricks/promptboard) | 2026-08-14 |
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
+| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-05 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-09-05 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-05 |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-03 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-23 |
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-08-23 |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-08-22 |
 
 ---
 
@@ -78,7 +71,7 @@ graph TD
     UTIL --> RBS["RSS-BOOKSTORE (Native Host & Ordner-Sync)"]
     UTIL --> AC["AmpelClip (Zwischenablage-Datenschutzwächter)"]
     UTIL --> SC["SoftwareCenter (Desktop-Launcher)"]
-    UTIL --> LB["LaunchBoards (Arbeitsbereich-Starter)"]
+    UTIL --> LB["LaunchBoards (Tab-basierter Workspace-Starter)"]
     UTIL --> WSP["WinStorePackager (MSIX Store GUI)"]
 
     INFRA --> GH[".github (Profil & Workflows)"]
@@ -93,7 +86,7 @@ graph TD
 |---|---|---|
 | Lokale Dateien erkunden, vorschauen & ordnen | [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | Dateibrowser mit Vorschaufeldern, Datenschutz-Prüfung & Sync-Funktionen |
 | Dokumentenreiche Ordner durchsuchen & verwalten | [ProFiler](https://github.com/file-bricks/ProFiler) | Dateimanagement-Suite mit Volltextsuche, OCR & Dokumenten-Workflows |
-| Wissensdatenbanken indizieren & auswerten | [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest) | Portable SQLite-FTS5 Dokumentendatenbank mit GUI & Web-Viewer |
+| Wissensdatenbanken indizieren & auswerten | [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | Portable SQLite-FTS5 Dokumentendatenbank mit GUI & Web-Viewer |
 | Ordner & Backups synchron halten | [ProSync](https://github.com/file-bricks/ProSync) | Terminierte Synchronisation mit Datenbank-Sicherheitsprüfungen |
 | Durch Cloud-Sync gesperrte Dateien reparieren | [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | Windows Tray- & CLI-Tool für Copy-Delete-Wiederholungen bei `cldflt.sys`-Sperren |
 | Zwischenablage-Datenschutz überwachen & anonymisieren | [AmpelClip](https://github.com/file-bricks/AmpelClip) | Datenschutzwächter mit Ampel-Workflow & Offline-PWA-Companion |
@@ -101,6 +94,9 @@ graph TD
 | Wiederverwendbare LLM-Bausteine erstellen | [promptboard](https://github.com/file-bricks/promptboard) | Windows Tray-App für PROMPT-, SKILL-, WORKFLOW-, ROLLE- & AGENT-Bausteine |
 | Persönliche Prompt-Bibliothek verwalten | [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Desktop Prompt-Manager zum Strukturieren, Versionieren & Exportieren von Prompts |
 | RSS-Feeds ohne Cloud-Konto lesen | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | Datenschutzfreundliche RSS-/Atom-Erweiterung, die Feeds als Lesezeichen speichert |
+| Verknüpfungen in Tab-Workspaces organisieren | [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | Leichtgewichtiger Workspace-Starter für thematische Schnellstart-Boards |
+| Installierte Desktop-Software organisieren | [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Kategorisierter Desktop-Organizer für Software-Verknüpfungen mit Tray-Integration |
+| Python-Apps für Microsoft Store paketieren | [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | GUI-Tool zur Erstellung von MSIX-Manifesten, Icon-Skalierung & Store-Profilen |
 
 ---
 
@@ -121,7 +117,7 @@ graph TD
 | App | Beschreibung |
 |---|---|
 | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | Lokale, datenschutzfreundliche Alternative zu Notebook-Dokumenten-Analyse-Tools |
-| [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest) | Portable Wissensdatenbank mit lokaler Indizierung, Suche und optionalen LLM-Zusammenfassungen |
+| [knowledgedigest](https://github.com/file-bricks/knowledgedigest) | Portable Wissensdatenbank mit lokaler Indizierung, Suche und optionalen LLM-Zusammenfassungen |
 | [promptboard](https://github.com/file-bricks/promptboard) | Leichtgewichtige Tray-App für wiederverwendbare LLM-Bausteine mit Markdown-Materialisierung |
 | [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | Desktop Prompt-Manager für strukturierte PROMPT-, SKILL-, WORKFLOW-, ROLLE- und AGENT-Bausteine |
 
@@ -133,7 +129,7 @@ graph TD
 | [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE) | Power-User RSS-Erweiterung mit Native-Messaging-Host und bidirektionaler Windows-Ordnersynchronisation |
 | [AmpelClip](https://github.com/file-bricks/AmpelClip) | Zwischenablage-Datenschutzwächter für IBAN, E-Mail, Telefonnummern, Kreditkarten und sensible Textmuster |
 | [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | Leichtgewichtiger Desktop-Organizer für Software-Verknüpfungen und Starter-Oberflächen |
-| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | Desktop-Arbeitsbereich-Organizer und Starter; Schwesterprodukt von SoftwareCenter |
+| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | Tab-basierter Workspace-App-Starter und Schwesterprodukt zu SoftwareCenter mit Board-Framing |
 | [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | GUI-Tool zur Vorbereitung von Python Desktop-Apps für die Microsoft Store MSIX-Paketierung |
 
 ---
@@ -145,7 +141,7 @@ Die obige Produktübersicht deckt alle **16 aktiven öffentlichen file-bricks Re
 | Bereich | Repositories |
 |---|---|
 | Datei, Sync & Daten | [ExplorerPro](https://github.com/file-bricks/ExplorerPro), [ProFiler](https://github.com/file-bricks/ProFiler), [ProSync](https://github.com/file-bricks/ProSync), [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer), [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) |
-| Wissen & KI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/KnowledgeDigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
+| Wissen & KI | [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM), [knowledgedigest](https://github.com/file-bricks/knowledgedigest), [promptboard](https://github.com/file-bricks/promptboard), [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) |
 | Feeds & Dienstprogramme | [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK), [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE), [AmpelClip](https://github.com/file-bricks/AmpelClip), [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), [LaunchBoards](https://github.com/file-bricks/LaunchBoards), [WinStorePackager](https://github.com/file-bricks/WinStorePackager) |
 | Organisations-Infrastruktur | [`.github`](https://github.com/file-bricks/.github) Profil-README, Community-Standards, Workflow-Vorlagen und [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt) |
 

@@ -1,5 +1,14 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-08-14 -->
+<!-- Last-updated: 2026-09-09 -->
+
+## Audit & Discoverability Update (2026-09-09)
+
+- **Total Repositories Verified**: 16 public repositories indexed (15 desktop/browser tools + 1 org profile repository).
+- **Missing Repository Discovered & Added**: `LaunchBoards` (tab-based workspace and application shortcut launcher) added across English/German landing pages, root README, Mermaid ecosystem diagram, and `llms.txt`.
+- **Banner Integration**: Live SVG banner for `SoftwareCenter` (`assets/banner.svg`) integrated into the profile gallery.
+- **Freshness Signals Refreshed**: Public activity table updated to reflect September 2026 updates across active tools (`CloudLockFixer`, `AmpelClip`, `ProfiPrompt`, `RSS-BOOK`, `WinStorePackager`, `SQLiteViewer`, `SoftwareCenter`).
+- **SEO & Search Terms Refined**: Added high-intent keywords (`tabbed workspace launcher`, `desktop quick-launch boards`, `local-first desktop suite`, `privacy clipboard monitor`, `cldflt.sys lock repair`).
+- **Parity Testing**: Automated test suite `tests/test_profile_parity.py` implemented to guard against repository omissions, broken links, or badge desynchronization.
 
 ## Live GitHub Index/Activity Readback (2026-08-14)
 
@@ -18,10 +27,6 @@ Top-five public activity snapshot:
 | `promptboard` | 2026-08-14T14:49:59Z |
 | `WinStorePackager` | 2026-08-14T13:12:49Z |
 | `ProfiPrompt` | 2026-08-14T12:52:21Z |
-
-**Design/readability note:** The remote profile already includes a visual banner
-showcase for 13 product tools and a clear `SoftwareCenter` no-banner note. This
-run preserved that professional layout and only refreshed live metadata.
 
 ## Audit Summary (2026-07-25)
 

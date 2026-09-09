@@ -12,11 +12,7 @@
 
 ---
 
-## Current Public Index (2026-08-14)
-
-Live GitHub readback on 2026-08-14 found **15 public repositories** and
-`archived=false` for all 15. The complete repository directory below remains
-the canonical public index for the organization profile.
+## Current Public Index (2026-09-09)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -24,6 +20,7 @@ the canonical public index for the organization profile.
 | [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | Clipboard privacy monitor with traffic-light preview & anonymization | Windows / PWA | Python, PySide6, JS |
 | [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | Windows tray tool for repairing cloud-sync file locks (cldflt.sys) | Windows | Python, PySide6, Tray |
 | [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | Local-first file manager with privacy panels & duplicate finder | Windows / Cross-platform | Python, PySide6 |
+| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | Tab-based workspace and application shortcut launcher | Windows / Cross-platform | Python, PySide6 |
 | [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | Local NotebookLM alternative for document analysis, RAG & chat | Windows / Cross-platform | Python, PySide6, SQLite |
 | [`ProFiler`](https://github.com/file-bricks/ProFiler) | Desktop document search suite with OCR & SQLite indexing | Windows / Cross-platform | Python, PySide6, Tesseract |
 | [`ProSync`](https://github.com/file-bricks/ProSync) | Intelligent backup synchronization with database safety | Windows / Cross-platform | Python, PySide6, SQLite |
@@ -31,28 +28,26 @@ the canonical public index for the organization profile.
 | [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | Privacy-first Chrome Web Store RSS extension saving feeds as bookmarks | Chromium Browsers | JavaScript (MV3) |
 | [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE) | Power-user RSS reader with Native Host & Windows folder sync | Windows / Browser | JS, Python Native Host |
 | [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | Local-first SQLite database browser with CSV & JSON exports | Windows / Cross-platform | Python, Tkinter, JS |
-| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | Workspace organizer and launcher; sister product of SoftwareCenter | Windows / Cross-platform | Python, PySide6 |
 | [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | Desktop application launcher & shortcut organizer | Windows / Cross-platform | Python, PySide6 |
 | [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | GUI tool for Python Microsoft Store MSIX packaging & manifest generation | Windows | Python, PySide6, MSIX |
-| [`knowledgedigest`](https://github.com/file-bricks/KnowledgeDigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
+| [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest) | Portable document knowledge database with FTS5 search & Web viewer | Windows / Web | Python, PySide6, SQLite |
 | [`promptboard`](https://github.com/file-bricks/promptboard) | Windows tray app for reusable LLM building blocks & Markdown export | Windows | Python, PySide6, Tray |
 
 ---
 
 ## Current Public Activity
 
-The latest public repository activity was read from GitHub on 2026-08-14. The
-table shows the five repositories with the newest public pushes; it is a
-freshness signal, not a complete activity denominator. The index above remains
-the canonical 16-repository directory.
+The latest public repository activity across `file-bricks` reflects active maintenance and ecosystem refinement. The index above remains the canonical 16-repository directory; this snapshot is only a freshness signal.
 
 | Repository | Latest public activity |
 |---|---|
-| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-08-14 |
-| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-08-14 |
-| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-08-14 |
-| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-14 |
-| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-08-14 |
+| [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | 2026-09-05 |
+| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-09-05 |
+| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-09-05 |
+| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-09-03 |
+| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-23 |
+| [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | 2026-08-23 |
+| [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | 2026-08-22 |
 
 ---
 
