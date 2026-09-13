@@ -2,6 +2,19 @@
 
 All notable changes to the `file-bricks` organization profile repository and shared health assets will be documented in this file.
 
+## [1.3.0] - 2026-09-13
+
+### Added
+- **Security SLA**: Added 48-hour response SLA badge and standardized reporting policy in `SECURITY.md` (covering Zero-Egress, Non-Elevation, and Integrity invariants).
+- **Comprehensive Ecosystem Matrix**: Integrated full 11-organization ecosystem navigation table (`open-bricks`, `file-bricks`, `doc-bricks`, `dev-bricks`, `ellmos-ai`, `research-line`, `biotec-line`, `entertain-and-more`, `assistassets-ai`, `um-bruch`, `lukisch`) into `profile/README.md` and `profile/README_de.md`.
+- **Search & Discoverability Keywords**: Added targeted English and German search terms for high-intent discoverability across web search and GitHub.
+- **Verification Badges**: Added `Verified-2026-09-13` / `Geprüft-2026-09-13` status badges.
+
+### Updated
+- **Freshness Snapshot**: Synchronized public activity timestamps to 2026-09-13 based on live GitHub repository telemetry (`WinStorePackager`, `SoftwareCenter`, `ProSync`, `CloudLockFixer`, `ProFiler`, `ExplorerPro`, `ProfiPrompt`, `knowledgedigest`, `LaunchBoards`, `promptboard`, `.github`, `RSS-BOOK`).
+- **Profile Parity Tests**: Expanded `tests/test_profile_parity.py` to 11 automated test cases verifying public count, badges, dates, ecosystem table, and security invariants (100% passing).
+- **Machine Context**: Synchronized `llms.txt` and root `README.md` to date 2026-09-13.
+
 ## [1.2.0] - 2026-09-09
 
 ### Added

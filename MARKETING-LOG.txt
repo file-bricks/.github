@@ -1,5 +1,14 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-09-09 -->
+<!-- Last-updated: 2026-09-13 -->
+
+## Audit & Discoverability Update (2026-09-13)
+
+- **Total Repositories Verified**: 16 public repositories indexed (15 desktop/browser tools + 1 org profile repository). 0 private repositories (zero leak risk).
+- **Public Activity Freshness Refreshed**: Synchronized latest activity dates up to 2026-09-13 reflecting active maintenance across `WinStorePackager`, `SoftwareCenter`, `ProSync`, `CloudLockFixer`, `ProFiler`, `ExplorerPro`, `ProfiPrompt`, `knowledgedigest`, `LaunchBoards`, `promptboard`, `.github`, and `RSS-BOOK`.
+- **Security SLA Standard**: Added 48-hour response SLA badge and standardized bilingual policy in `SECURITY.md` covering Zero-Egress, Non-Elevation, and Integrity invariants.
+- **Ecosystem Matrix Integration**: Upgraded the ecosystem section to the complete 11-organization markdown table (`open-bricks`, `file-bricks`, `doc-bricks`, `dev-bricks`, `ellmos-ai`, `research-line`, `biotec-line`, `entertain-and-more`, `assistassets-ai`, `um-bruch`, `lukisch`).
+- **High-Intent Search Terms**: Added bilingual search & discovery sections to improve discoverability on GitHub search and external search engines.
+- **Automated Parity Verification**: Expanded `tests/test_profile_parity.py` to 11 automated test assertions, passing 100%.
 
 ## Audit & Discoverability Update (2026-09-09)
 

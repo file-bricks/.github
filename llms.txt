@@ -1,13 +1,15 @@
 # file-bricks
 
-## Last-checked: 2026-09-09
+## Last-checked: 2026-09-13
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
 Primary profile README (EN): https://github.com/file-bricks/.github/blob/main/profile/README.md
 Primary profile README (DE): https://github.com/file-bricks/.github/blob/main/profile/README_de.md
-Related ecosystem root: https://github.com/open-bricks
-Parent AI/tooling ecosystem: https://github.com/ellmos-ai
+Related ecosystem umbrella: https://github.com/open-bricks
+Related AI/tooling ecosystem: https://github.com/ellmos-ai
+Related document tools: https://github.com/doc-bricks
+Related developer tooling: https://github.com/dev-bricks
 
 ## Audience
 
@@ -53,15 +55,20 @@ Parent AI/tooling ecosystem: https://github.com/ellmos-ai
 
 ## Current Public Activity
 
-Freshness snapshot from the public GitHub repository metadata on 2026-09-09:
+Freshness snapshot from the public GitHub repository metadata on 2026-09-13:
 
-- [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer): public activity 2026-09-05
-- [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-09-05
-- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-09-05
-- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-09-03
-- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-08-23
-- [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer): public activity 2026-08-23
-- [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): public activity 2026-08-22
+- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-09-13
+- [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): public activity 2026-09-13
+- [`ProSync`](https://github.com/file-bricks/ProSync): public activity 2026-09-12
+- [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer): public activity 2026-09-12
+- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-09-12
+- [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro): public activity 2026-09-12
+- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-09-12
+- [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): public activity 2026-09-10
+- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): public activity 2026-09-10
+- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-09-10
+- [`.github`](https://github.com/file-bricks/.github): public activity 2026-09-13
+- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-09-02
 
 ## Recommended Starting Points
 

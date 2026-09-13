@@ -1,18 +1,20 @@
 # file-bricks .github
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-16-blue.svg)](https://github.com/file-bricks)
+[![Security SLA](https://img.shields.io/badge/Security_SLA-48h_Response-blue.svg)](SECURITY.md)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](SECURITY.md)
 [![Local-First](https://img.shields.io/badge/Architecture-Local--First-orange.svg)](https://github.com/file-bricks)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg)](https://pypi.org/project/PySide6/)
 [![LLM-Ready](https://img.shields.io/badge/LLM-Ready-purple.svg)](llms.txt)
+[![Verified](https://img.shields.io/badge/Verified-2026--09--13-success.svg)](https://github.com/file-bricks)
 
 > [!NOTE]
 > This repository is the organization profile and default community health directory for **[file-bricks](https://github.com/file-bricks)**. The public landing pages are maintained in [`profile/README.md`](profile/README.md) (English) and [`profile/README_de.md`](profile/README_de.md) (Deutsch). For machine-readable context navigation, refer to [`llms.txt`](llms.txt).
 
 ---
 
-## Current Public Index (2026-09-09)
+## Current Public Index (2026-09-13)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -41,13 +43,18 @@ The latest public repository activity across `file-bricks` reflects active maint
 
 | Repository | Latest public activity |
 |---|---|
-| [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | 2026-09-05 |
-| [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-09-05 |
-| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-09-05 |
-| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-09-03 |
-| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-08-23 |
-| [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | 2026-08-23 |
-| [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | 2026-08-22 |
+| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-09-13 |
+| [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | 2026-09-13 |
+| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-09-12 |
+| [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | 2026-09-12 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-09-12 |
+| [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | 2026-09-12 |
+| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-09-12 |
+| [`KnowledgeDigest`](https://github.com/file-bricks/knowledgedigest) | 2026-09-10 |
+| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | 2026-09-10 |
+| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-09-10 |
+| [`.github`](https://github.com/file-bricks/.github) | 2026-09-13 |
+| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-09-02 |
 
 ---
 
@@ -57,5 +64,12 @@ This repository provides default GitHub health assets across the `file-bricks` o
 - [`profile/README.md`](profile/README.md) & [`profile/README_de.md`](profile/README_de.md) — Bilingual organization landing pages
 - [`llms.txt`](llms.txt) — LLM-agent ecosystem entry point
 - `CONTRIBUTING.md` & `CODE_OF_CONDUCT.md` — Shared contribution guidelines
-- `SECURITY.md` — Security and vulnerability reporting policy
+- `SECURITY.md` — Security and vulnerability reporting policy (with 48h response SLA)
 - `.github/workflows/` — Automated stale and welcome triage workflows
+
+---
+
+## Ecosystem
+
+Part of the broader research, software, and AI tooling ecosystem:
+[open-bricks](https://github.com/open-bricks) · [file-bricks](https://github.com/file-bricks) · [doc-bricks](https://github.com/doc-bricks) · [dev-bricks](https://github.com/dev-bricks) · [ellmos-ai](https://github.com/ellmos-ai) · [research-line](https://github.com/research-line) · [biotec-line](https://github.com/biotec-line) · [entertain-and-more](https://github.com/entertain-and-more) · [assistassets-ai](https://github.com/assistassets-ai) · [um-bruch](https://github.com/um-bruch)

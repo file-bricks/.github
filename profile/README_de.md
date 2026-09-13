@@ -1,12 +1,14 @@
 # file-bricks
-<!-- last-checked: 2026-09-09 -->
+<!-- last-checked: 2026-09-13 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-16-blue.svg)](https://github.com/file-bricks)
+[![Sicherheits-SLA](https://img.shields.io/badge/Sicherheits--SLA-48h_Reaktion-blue.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
 [![Lizenz](https://img.shields.io/badge/Lizenz-MIT-green.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg)](https://pypi.org/project/PySide6/)
 [![Local-First](https://img.shields.io/badge/Architektur-Local--First-orange.svg)](https://github.com/file-bricks)
 [![LLM-Ready](https://img.shields.io/badge/LLM-Ready-purple.svg)](https://github.com/file-bricks/.github/blob/main/llms.txt)
+[![Geprüft](https://img.shields.io/badge/Geprüft-2026--09--13-success.svg)](https://github.com/file-bricks)
 
 [English (EN)](README.md) | [Deutsch (DE)](README_de.md)
 
@@ -37,13 +39,18 @@ Die jüngste öffentliche Repository-Aktivität über ganz `file-bricks` spiegel
 
 | Repository | Jüngste öffentliche Aktivität |
 |---|---|
-| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-05 |
-| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-09-05 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-05 |
-| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-03 |
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-08-23 |
-| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-08-23 |
-| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-08-22 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-09-13 |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-09-13 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-09-12 |
+| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-12 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-09-12 |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-09-12 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-12 |
+| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | 2026-09-10 |
+| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | 2026-09-10 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-09-10 |
+| [.github](https://github.com/file-bricks/.github) | 2026-09-13 |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-02 |
 
 ---
 
@@ -159,10 +166,46 @@ Die obige Produktübersicht deckt alle **16 aktiven öffentlichen file-bricks Re
 
 ---
 
+## Suche & Auffindbarkeit
+
+Relevante GitHub- und Websuchbegriffe umfassen:
+- `file-bricks local-first Desktop-Apps`
+- `PySide6 lokaler Dateimanager mit OCR und PDF-Tools`
+- `ExplorerPro Dateibrowser mit Datenschutzprüfung Windows`
+- `ProFiler Desktop Dokumentensuche SQLite FTS5`
+- `CloudLockFixer cldflt.sys OneDrive Sperren Reparatur Werkzeug`
+- `ProSync terminierter Backup Sync Datenbanksicherheit Windows`
+- `SQLiteViewer leichtgewichtiger Python SQLite Browser CSV JSON Export`
+- `NoteSpaceLLM lokale NotebookLM Alternative privates RAG`
+- `knowledgedigest portable SQLite Dokumentendatenbank`
+- `promptboard Windows Tray LLM Bausteine`
+- `ProfiPrompt Desktop Prompt Manager PWA Companion`
+- `WinStorePackager Python Microsoft Store MSIX GUI Packager`
+- `AmpelClip Windows Zwischenablage Datenschutz Anonymisierer`
+- `LaunchBoards Tab Workspace Desktop Schnellstarter`
+- `SoftwareCenter plattformübergreifender Desktop Starter`
+- `RSS-BOOK datenschutzfreundliche Chrome Lesezeichen RSS Erweiterung`
+
+---
+
 ## Ökosystem
 
-file-bricks bildet den Zweig für Datei- und Wissensarbeit innerhalb des Bricks-Ökosystems:
+file-bricks bildet den Zweig für Dateiverwaltung, Prompt-Bibliotheken und Desktop-Anwendungen innerhalb des übergreifenden Software- und KI-Ökosystems:
 
-[open-bricks](https://github.com/open-bricks) | [doc-bricks](https://github.com/doc-bricks) | [dev-bricks](https://github.com/dev-bricks) | [ellmos-ai](https://github.com/ellmos-ai)
+| Organisation | Schwerpunkt | Link |
+|---|---|---|
+| **open-bricks** | Dachorganisation für alle Softwareprodukte und Werkzeuge | [open-bricks](https://github.com/open-bricks) |
+| **file-bricks** | Dateiverwaltung, Prompt-Bibliotheken und Desktop-Werkzeuge | [file-bricks](https://github.com/file-bricks) |
+| **doc-bricks** | Dokumentenverwaltung, OCR und Rechnungsverarbeitung | [doc-bricks](https://github.com/doc-bricks) |
+| **dev-bricks** | Entwicklerwerkzeuge, Brücken, IDEs und CLI-Dienstprogramme | [dev-bricks](https://github.com/dev-bricks) |
+| **ellmos-ai** | KI-Infrastruktur, MCP-Server und Agenten-Frameworks | [ellmos-ai](https://github.com/ellmos-ai) |
+| **research-line** | Open-Science, mathematische Physik und Forschungssoftware | [research-line](https://github.com/research-line) |
+| **biotec-line** | Lokale Bioinformatik, VCF- und Genetik-Werkzeuge | [biotec-line](https://github.com/biotec-line) |
+| **entertain-and-more** | Interaktives Schach, Pen-&-Paper-RPG und Podcast-Tools | [entertain-and-more](https://github.com/entertain-and-more) |
+| **assistassets-ai** | Lokale persönliche Assistenten und Finanzwerkzeuge | [assistassets-ai](https://github.com/assistassets-ai) |
+| **um-bruch** | Gemeinwohlorientierte Prototypen, Gesundheitspolitik & Civic Tech | [um-bruch](https://github.com/um-bruch) |
+| **lukisch** | Persönliches Entwicklerprofil | [lukisch](https://github.com/lukisch) |
+
+---
 
 Für maschinenlesbare Navigation siehe [`llms.txt`](https://github.com/file-bricks/.github/blob/main/llms.txt).

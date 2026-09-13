@@ -1,4 +1,4 @@
-"""Test suite verifying profile parity, repository indexing, and link integrity for file-bricks."""
+"""Test suite verifying profile parity, repository indexing, security SLA, and link integrity for file-bricks."""
 from pathlib import Path
 import re
 import pytest
@@ -24,6 +24,20 @@ EXPECTED_PUBLIC_REPOS = [
     "promptboard",
 ]
 
+EXPECTED_ECOSYSTEM_ORGS = [
+    "open-bricks",
+    "file-bricks",
+    "doc-bricks",
+    "dev-bricks",
+    "ellmos-ai",
+    "research-line",
+    "biotec-line",
+    "entertain-and-more",
+    "assistassets-ai",
+    "um-bruch",
+    "lukisch",
+]
+
 
 def test_public_repo_count():
     assert len(EXPECTED_PUBLIC_REPOS) == 16
@@ -38,6 +52,14 @@ def test_readme_badges():
     assert "Öffentliche_Repos-16-blue.svg" in profile_de
     assert "Public_Repos-16-blue.svg" in root_readme
 
+    assert "Security_SLA-48h_Response-blue.svg" in profile_en
+    assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
+    assert "Security_SLA-48h_Response-blue.svg" in root_readme
+
+    assert "Verified-2026--09--13-success.svg" in profile_en
+    assert "Geprüft-2026--09--13-success.svg" in profile_de
+    assert "Verified-2026--09--13-success.svg" in root_readme
+
 
 def test_last_checked_dates():
     profile_en = (REPO_ROOT / "profile" / "README.md").read_text(encoding="utf-8")
@@ -45,10 +67,10 @@ def test_last_checked_dates():
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
     llms_txt = (REPO_ROOT / "llms.txt").read_text(encoding="utf-8")
 
-    assert "last-checked: 2026-09-09" in profile_en
-    assert "last-checked: 2026-09-09" in profile_de
-    assert "2026-09-09" in root_readme
-    assert "Last-checked: 2026-09-09" in llms_txt
+    assert "last-checked: 2026-09-13" in profile_en
+    assert "last-checked: 2026-09-13" in profile_de
+    assert "2026-09-13" in root_readme
+    assert "Last-checked: 2026-09-13" in llms_txt
 
 
 def test_all_repos_indexed_in_profile_en():
@@ -96,3 +118,20 @@ def test_mermaid_syntax_parentheses_quoted():
                 if "(" in line and ")" in line:
                     # Line with parentheses should have quotes around the node text e.g. ["...(...)"]
                     assert '["' in line and '"]' in line, f"Unquoted parentheses in mermaid line: {line} in {path}"
+
+
+def test_ecosystem_table_presence():
+    profile_en = (REPO_ROOT / "profile" / "README.md").read_text(encoding="utf-8")
+    profile_de = (REPO_ROOT / "profile" / "README_de.md").read_text(encoding="utf-8")
+
+    for org in EXPECTED_ECOSYSTEM_ORGS:
+        assert org in profile_en, f"Org {org} missing from profile/README.md ecosystem table"
+        assert org in profile_de, f"Org {org} missing from profile/README_de.md ecosystem table"
+
+
+def test_security_policy_invariants():
+    security_md = (REPO_ROOT / "SECURITY.md").read_text(encoding="utf-8")
+    assert "48 hours" in security_md
+    assert "Zero-Egress" in security_md
+    assert "security@open-bricks.org" in security_md
+    assert "support@lukasgeiger.com" in security_md
