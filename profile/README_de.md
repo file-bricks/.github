@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-09-13 -->
+<!-- last-checked: 2026-09-22 -->
 
 [![Public Repos](https://img.shields.io/badge/Öffentliche_Repos-16-blue.svg)](https://github.com/file-bricks)
 [![Sicherheits-SLA](https://img.shields.io/badge/Sicherheits--SLA-48h_Reaktion-blue.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -8,7 +8,7 @@
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg)](https://pypi.org/project/PySide6/)
 [![Local-First](https://img.shields.io/badge/Architektur-Local--First-orange.svg)](https://github.com/file-bricks)
 [![LLM-Ready](https://img.shields.io/badge/LLM-Ready-purple.svg)](https://github.com/file-bricks/.github/blob/main/llms.txt)
-[![Geprüft](https://img.shields.io/badge/Geprüft-2026--09--13-success.svg)](https://github.com/file-bricks)
+[![Geprüft](https://img.shields.io/badge/Geprüft-2026--09--22-success.svg)](https://github.com/file-bricks)
 
 [English (EN)](README.md) | [Deutsch (DE)](README_de.md)
 
@@ -27,7 +27,7 @@ Kernbegriffe der Organisation: Local-First Desktop-Apps, PySide6 Dateimanager, O
 
 Alle 15 Produktwerkzeuge auf einen Blick — die Banner sind die Links; Details in den Tabellen darunter:
 
-<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner-wide.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner-wide.png" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner-wide.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/knowledgedigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner-wide.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner-wide.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner-wide.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/banner-wide.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SoftwareCenter"><img src="https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner.svg" alt="SoftwareCenter" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
+<p align="center"><a href="https://github.com/file-bricks/ExplorerPro"><img src="https://raw.githubusercontent.com/file-bricks/ExplorerPro/master/assets/banner_v2.svg" alt="ExplorerPro" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProFiler"><img src="https://raw.githubusercontent.com/file-bricks/ProFiler/master/assets/banner.svg" alt="ProFiler" width="680" style="border:2px solid #f472b6;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProSync"><img src="https://raw.githubusercontent.com/file-bricks/ProSync/master/assets/banner-wide.png" alt="ProSync" width="680" style="border:2px solid #2dd4bf;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/CloudLockFixer"><img src="https://raw.githubusercontent.com/file-bricks/CloudLockFixer/main/assets/banner-wide.png" alt="CloudLockFixer" width="680" style="border:2px solid #fbbf24;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SQLiteViewer"><img src="https://raw.githubusercontent.com/file-bricks/SQLiteViewer/master/assets/banner.svg" alt="SQLiteViewer" width="680" style="border:2px solid #a3e635;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/NoteSpaceLLM"><img src="https://raw.githubusercontent.com/file-bricks/NoteSpaceLLM/master/assets/banner-wide.png" alt="NoteSpaceLLM" width="680" style="border:2px solid #fb923c;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/knowledgedigest"><img src="https://raw.githubusercontent.com/file-bricks/knowledgedigest/main/assets/banner-wide.png" alt="knowledgedigest" width="680" style="border:2px solid #34d399;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/promptboard"><img src="https://raw.githubusercontent.com/file-bricks/promptboard/main/assets/banner-wide.png" alt="promptboard" width="680" style="border:2px solid #818cf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/ProfiPrompt"><img src="https://raw.githubusercontent.com/file-bricks/ProfiPrompt/master/assets/banner-wide.png" alt="ProfiPrompt" width="680" style="border:2px solid #e879f9;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOK"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOK/main/assets/banner-wide.png" alt="RSS-BOOK" width="680" style="border:2px solid #f87171;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/RSS-BOOKSTORE"><img src="https://raw.githubusercontent.com/file-bricks/RSS-BOOKSTORE/master/assets/banner_v2.svg" alt="RSS-BOOKSTORE" width="680" style="border:2px solid #06b6d4;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/AmpelClip"><img src="https://raw.githubusercontent.com/file-bricks/AmpelClip/master/assets/banner.svg" alt="AmpelClip" width="680" style="border:2px solid #c084fc;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/SoftwareCenter"><img src="https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner.png" alt="SoftwareCenter" width="680" style="border:2px solid #38bdf8;border-radius:8px;display:block;margin:0 auto"></a><a href="https://github.com/file-bricks/WinStorePackager"><img src="https://raw.githubusercontent.com/file-bricks/WinStorePackager/master/assets/banner.svg" alt="WinStorePackager" width="680" style="border:2px solid #a78bfa;border-radius:8px;display:block;margin:0 auto"></a></p>
 
 [LaunchBoards](https://github.com/file-bricks/LaunchBoards) ist das Schwesterprodukt von [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter), das Desktop-Verknüpfungen in thematischen Schnellstart-Boards organisiert und dieselbe zuverlässige Desktop-Engine teilt.
 
@@ -39,18 +39,22 @@ Die jüngste öffentliche Repository-Aktivität über ganz `file-bricks` spiegel
 
 | Repository | Jüngste öffentliche Aktivität |
 |---|---|
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-09-13 |
-| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-09-13 |
-| [ProSync](https://github.com/file-bricks/ProSync) | 2026-09-12 |
-| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-12 |
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-09-12 |
-| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-09-12 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-12 |
-| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | 2026-09-10 |
-| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | 2026-09-10 |
-| [promptboard](https://github.com/file-bricks/promptboard) | 2026-09-10 |
-| [.github](https://github.com/file-bricks/.github) | 2026-09-13 |
-| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-02 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-09-22 |
+| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | 2026-09-22 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-22 |
+| [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE) | 2026-09-22 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-09-22 |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-09-22 |
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-09-22 |
+| [.github](https://github.com/file-bricks/.github) | 2026-09-22 |
+| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-21 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-09-21 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-09-21 |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-09-21 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-09-20 |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-20 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-09-19 |
+| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | 2026-09-18 |
 
 ---
 

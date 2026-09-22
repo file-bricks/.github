@@ -56,9 +56,9 @@ def test_readme_badges():
     assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
     assert "Security_SLA-48h_Response-blue.svg" in root_readme
 
-    assert "Verified-2026--09--13-success.svg" in profile_en
-    assert "Geprüft-2026--09--13-success.svg" in profile_de
-    assert "Verified-2026--09--13-success.svg" in root_readme
+    assert "Verified-2026--09--22-success.svg" in profile_en
+    assert "Geprüft-2026--09--22-success.svg" in profile_de
+    assert "Verified-2026--09--22-success.svg" in root_readme
 
 
 def test_last_checked_dates():
@@ -67,10 +67,10 @@ def test_last_checked_dates():
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
     llms_txt = (REPO_ROOT / "llms.txt").read_text(encoding="utf-8")
 
-    assert "last-checked: 2026-09-13" in profile_en
-    assert "last-checked: 2026-09-13" in profile_de
-    assert "2026-09-13" in root_readme
-    assert "Last-checked: 2026-09-13" in llms_txt
+    assert "last-checked: 2026-09-22" in profile_en
+    assert "last-checked: 2026-09-22" in profile_de
+    assert "2026-09-22" in root_readme
+    assert "Last-checked: 2026-09-22" in llms_txt
 
 
 def test_all_repos_indexed_in_profile_en():
@@ -101,7 +101,7 @@ def test_softwarecenter_banner_presence():
     profile_en = (REPO_ROOT / "profile" / "README.md").read_text(encoding="utf-8")
     profile_de = (REPO_ROOT / "profile" / "README_de.md").read_text(encoding="utf-8")
 
-    banner_url = "https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner.svg"
+    banner_url = "https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner.png"
     assert banner_url in profile_en, "SoftwareCenter banner missing from profile/README.md"
     assert banner_url in profile_de, "SoftwareCenter banner missing from profile/README_de.md"
 

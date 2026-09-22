@@ -1,5 +1,5 @@
 # file-bricks
-<!-- last-checked: 2026-09-13 -->
+<!-- last-checked: 2026-09-22 -->
 
 [![Public Repos](https://img.shields.io/badge/Public_Repos-16-blue.svg)](https://github.com/file-bricks)
 [![Security SLA](https://img.shields.io/badge/Security_SLA-48h_Response-blue.svg)](https://github.com/file-bricks/.github/blob/main/SECURITY.md)
@@ -8,7 +8,7 @@
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg)](https://pypi.org/project/PySide6/)
 [![Local-First](https://img.shields.io/badge/Architecture-Local--First-orange.svg)](https://github.com/file-bricks)
 [![LLM-Ready](https://img.shields.io/badge/LLM-Ready-purple.svg)](https://github.com/file-bricks/.github/blob/main/llms.txt)
-[![Verified](https://img.shields.io/badge/Verified-2026--09--13-success.svg)](https://github.com/file-bricks)
+[![Verified](https://img.shields.io/badge/Verified-2026--09--22-success.svg)](https://github.com/file-bricks)
 
 [English (EN)](README.md) | [Deutsch (DE)](README_de.md)
 
@@ -39,18 +39,22 @@ The latest public repository activity across `file-bricks` reflects active maint
 
 | Repository | Latest public activity |
 |---|---|
-| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-09-13 |
-| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-09-13 |
-| [ProSync](https://github.com/file-bricks/ProSync) | 2026-09-12 |
-| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-12 |
-| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-09-12 |
-| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-09-12 |
-| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-12 |
-| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | 2026-09-10 |
-| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | 2026-09-10 |
-| [promptboard](https://github.com/file-bricks/promptboard) | 2026-09-10 |
-| [.github](https://github.com/file-bricks/.github) | 2026-09-13 |
-| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-02 |
+| [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM) | 2026-09-22 |
+| [KnowledgeDigest](https://github.com/file-bricks/knowledgedigest) | 2026-09-22 |
+| [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt) | 2026-09-22 |
+| [RSS-BOOKSTORE](https://github.com/file-bricks/RSS-BOOKSTORE) | 2026-09-22 |
+| [AmpelClip](https://github.com/file-bricks/AmpelClip) | 2026-09-22 |
+| [SoftwareCenter](https://github.com/file-bricks/SoftwareCenter) | 2026-09-22 |
+| [SQLiteViewer](https://github.com/file-bricks/SQLiteViewer) | 2026-09-22 |
+| [.github](https://github.com/file-bricks/.github) | 2026-09-22 |
+| [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer) | 2026-09-21 |
+| [WinStorePackager](https://github.com/file-bricks/WinStorePackager) | 2026-09-21 |
+| [ProSync](https://github.com/file-bricks/ProSync) | 2026-09-21 |
+| [ExplorerPro](https://github.com/file-bricks/ExplorerPro) | 2026-09-21 |
+| [promptboard](https://github.com/file-bricks/promptboard) | 2026-09-20 |
+| [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK) | 2026-09-20 |
+| [ProFiler](https://github.com/file-bricks/ProFiler) | 2026-09-19 |
+| [LaunchBoards](https://github.com/file-bricks/LaunchBoards) | 2026-09-18 |
 
 ---
 

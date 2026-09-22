@@ -1,5 +1,13 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-09-13 -->
+<!-- Last-updated: 2026-09-22 -->
+
+## Audit & Discoverability Update (2026-09-22)
+
+- **Total Repositories Verified**: 16 public repositories indexed (15 desktop/browser tools + 1 org profile repository). 1 private repository (`absorber`) verified isolated (Zero-Private-Leak Invariant strictly preserved).
+- **Public Activity Freshness Synchronized**: Live GitHub API telemetry refreshed across all 16 repositories (`NoteSpaceLLM`, `knowledgedigest`, `ProfiPrompt`, `RSS-BOOKSTORE`, `AmpelClip`, `SoftwareCenter`, `SQLiteViewer`, `.github`, `CloudLockFixer`, `WinStorePackager`, `ProSync`, `ExplorerPro`, `promptboard`, `RSS-BOOK`, `ProFiler`, `LaunchBoards`), reflecting vigorous recent development (September 18-22).
+- **Banner Parity & Contract Fix**: Fixed parity drift on `SoftwareCenter` banner in `profile/README_de.md` and test suite `tests/test_profile_parity.py` (`assets/banner.png`), bringing test coverage back to 100% green.
+- **Verification Badges & Timestamps**: Synchronized `Verified-2026--09--22` / `Geprüft-2026--09--22` badges across English/German landing pages, root `README.md`, and `llms.txt`.
+- **Mermaid Guardrail**: Checked all diagrams with `lint_mermaid.py` — 0 syntax issues in 9 files.
 
 ## Audit & Discoverability Update (2026-09-13)
 

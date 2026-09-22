@@ -2,6 +2,16 @@
 
 All notable changes to the `file-bricks` organization profile repository and shared health assets will be documented in this file.
 
+## [Unreleased] - 2026-09-22
+
+### Fixed
+- **SoftwareCenter Banner Parity**: Synchronized `profile/README_de.md` and `tests/test_profile_parity.py` to point to user-approved `assets/banner.png` (matching `profile/README.md` and resolving contract test failure).
+
+### Updated
+- **Freshness Snapshot**: Synchronized public activity timestamps to 2026-09-22 based on live GitHub repository telemetry covering all 16 public repositories (`NoteSpaceLLM`, `knowledgedigest`, `ProfiPrompt`, `RSS-BOOKSTORE`, `AmpelClip`, `SoftwareCenter`, `SQLiteViewer`, `.github`, `CloudLockFixer`, `WinStorePackager`, `ProSync`, `ExplorerPro`, `promptboard`, `RSS-BOOK`, `ProFiler`, `LaunchBoards`).
+- **Verification Badges & Timestamps**: Updated `Verified-2026--09--22` / `Geprüft-2026--09--22` status badges and `last-checked: 2026-09-22` markers across `profile/README.md`, `profile/README_de.md`, root `README.md`, and `llms.txt`.
+- **Contract Test Suite**: Verified 100% green status across all 11 test cases in `tests/test_profile_parity.py`.
+
 ## [1.3.0] - 2026-09-13
 
 ### Added
