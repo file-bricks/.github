@@ -56,9 +56,9 @@ def test_readme_badges():
     assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
     assert "Security_SLA-48h_Response-blue.svg" in root_readme
 
-    assert "Verified-2026--09--22-success.svg" in profile_en
-    assert "Geprüft-2026--09--22-success.svg" in profile_de
-    assert "Verified-2026--09--22-success.svg" in root_readme
+    assert "Verified-2026--09--28-success.svg" in profile_en
+    assert "Geprüft-2026--09--28-success.svg" in profile_de
+    assert "Verified-2026--09--28-success.svg" in root_readme
 
 
 def test_last_checked_dates():
@@ -67,10 +67,10 @@ def test_last_checked_dates():
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
     llms_txt = (REPO_ROOT / "llms.txt").read_text(encoding="utf-8")
 
-    assert "last-checked: 2026-09-22" in profile_en
-    assert "last-checked: 2026-09-22" in profile_de
-    assert "2026-09-22" in root_readme
-    assert "Last-checked: 2026-09-22" in llms_txt
+    assert "last-checked: 2026-09-28" in profile_en
+    assert "last-checked: 2026-09-28" in profile_de
+    assert "2026-09-28" in root_readme
+    assert "Last-checked: 2026-09-28" in llms_txt
 
 
 def test_all_repos_indexed_in_profile_en():
@@ -106,6 +106,15 @@ def test_softwarecenter_banner_presence():
     assert banner_url in profile_de, "SoftwareCenter banner missing from profile/README_de.md"
 
 
+def test_launchboards_banner_presence():
+    profile_en = (REPO_ROOT / "profile" / "README.md").read_text(encoding="utf-8")
+    profile_de = (REPO_ROOT / "profile" / "README_de.md").read_text(encoding="utf-8")
+
+    banner_url = "https://raw.githubusercontent.com/file-bricks/SoftwareCenter/master/assets/banner-launchboards.png"
+    assert banner_url in profile_en, "LaunchBoards banner missing from profile/README.md"
+    assert banner_url in profile_de, "LaunchBoards banner missing from profile/README_de.md"
+
+
 def test_mermaid_syntax_parentheses_quoted():
     """Mermaid labels containing parentheses must be quoted to prevent parsing errors."""
     for path in [REPO_ROOT / "profile" / "README.md", REPO_ROOT / "profile" / "README_de.md"]:
@@ -135,3 +144,9 @@ def test_security_policy_invariants():
     assert "Zero-Egress" in security_md
     assert "security@open-bricks.org" in security_md
     assert "support@lukasgeiger.com" in security_md
+
+
+def test_zero_leaks_private_repos():
+    for rel_path in ["profile/README.md", "profile/README_de.md", "README.md", "llms.txt"]:
+        content = (REPO_ROOT / rel_path).read_text(encoding="utf-8").lower()
+        assert "absorber" not in content, f"Leak detected: private repo 'absorber' found in {rel_path}"

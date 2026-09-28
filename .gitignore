@@ -1,10 +1,25 @@
-# Local-first host backup files
-*-WORKSTATION-LG.*
+# Local-first multi-host sync and lock protection
+*-WORKSTATION*
+*-WORKSTATION-LG*
+*-ASUS*
 *-ASUS-GEI*
+*-LAPTOP*
+*-Mac Studio*
+*-MacBook*
+*-IDEAPAD*
+*-IDEAPAD-GEI*
+LOCK
+LOCK.*
+LOCK*.txt
+LOCK.permissions.json
+.automation-lock
 
-# Python & System
+# Python & Test Caches
 __pycache__/
 *.pyc
 *.tmp
+.pytest_cache/
+*.orig
+*.rej
 .DS_Store
 Thumbs.db

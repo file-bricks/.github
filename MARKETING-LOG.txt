@@ -1,5 +1,14 @@
 # MARKETING-LOG.txt — file-bricks/.github
-<!-- Last-updated: 2026-09-22 -->
+<!-- Last-updated: 2026-09-28 -->
+
+## Audit & Discoverability Update (2026-09-28)
+
+- **Total Repositories Verified**: 16 public repositories indexed (15 desktop/browser tools + 1 org profile repository). 1 private repository (`absorber`) verified isolated (Zero-Private-Leak Invariant strictly preserved).
+- **GitHub Discoverability & Topic Saturation**: All 16 public repositories audited; topics saturated to 20/20 across all product repos (`LaunchBoards` expanded from 6 to 20 topics, `promptboard` from 14 to 20 topics, `CloudLockFixer` from 18 to 20 topics, `NoteSpaceLLM` from 18 to 20 topics, `AmpelClip` from 16 to 20 topics, `RSS-BOOK` from 14 to 20 topics, `RSS-BOOKSTORE` from 13 to 20 topics). Canonical homepage URL set for `LaunchBoards`.
+- **Banner Parity (EN/DE)**: Synchronized `LaunchBoards` banner (`assets/banner-launchboards.png`) into `profile/README_de.md` next to `SoftwareCenter`, restoring 100% visual parity between EN and DE landing pages.
+- **Public Activity Freshness Synchronized**: Live GitHub API telemetry refreshed across all 16 repositories (`.github`, `ExplorerPro`, `ProFiler`, `CloudLockFixer`, `LaunchBoards`, `ProSync`, `ProfiPrompt`, `SQLiteViewer`, `SoftwareCenter`, `WinStorePackager`, `promptboard`, `AmpelClip`, `knowledgedigest`, `NoteSpaceLLM`, `RSS-BOOK`, `RSS-BOOKSTORE`).
+- **Verification Badges & Timestamps**: Synchronized `Verified-2026--09--28` / `Geprüft-2026--09--28` badges across English/German landing pages, root `README.md`, and `llms.txt`.
+- **Contract Tests**: Expanded `tests/test_profile_parity.py` from 11 to 13 tests with `test_launchboards_banner_presence` and `test_zero_leaks_private_repos` (100% green).
 
 ## Audit & Discoverability Update (2026-09-22)
 

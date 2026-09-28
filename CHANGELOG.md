@@ -2,7 +2,18 @@
 
 All notable changes to the `file-bricks` organization profile repository and shared health assets will be documented in this file.
 
-## [Unreleased] - 2026-09-22
+## [Unreleased] - 2026-09-28
+
+### Added
+- **LaunchBoards Banner Parity (DE)**: Added `LaunchBoards` banner (`assets/banner-launchboards.png`) to `profile/README_de.md` next to `SoftwareCenter`, achieving 100% visual and link parity with English profile.
+- **Contract Tests**: Added `test_launchboards_banner_presence` and `test_zero_leaks_private_repos` in `tests/test_profile_parity.py` (total test suite expanded to 13 passed / 100% green).
+
+### Updated
+- **GitHub Discoverability & Topics Sättigung**: Saturated GitHub repository topics across all public repositories (16/16 with 20/20 topics) and set missing canonical homepage URL for `LaunchBoards`.
+- **Freshness Snapshot**: Synchronized public activity timestamps to 2026-09-28 based on live GitHub repository telemetry covering all 16 public repositories across `profile/README.md`, `profile/README_de.md`, root `README.md`, and `llms.txt`.
+- **Verification Badges & Timestamps**: Updated `Verified-2026--09--28` / `Geprüft-2026--09--28` status badges and `last-checked: 2026-09-28` markers across all profile surfaces.
+
+## [1.3.1] - 2026-09-22
 
 ### Fixed
 - **SoftwareCenter Banner Parity**: Synchronized `profile/README_de.md` and `tests/test_profile_parity.py` to point to user-approved `assets/banner.png` (matching `profile/README.md` and resolving contract test failure).
