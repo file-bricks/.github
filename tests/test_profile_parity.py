@@ -56,9 +56,9 @@ def test_readme_badges():
     assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
     assert "Security_SLA-48h_Response-blue.svg" in root_readme
 
-    assert "Verified-2026--09--28-success.svg" in profile_en
-    assert "Geprüft-2026--09--28-success.svg" in profile_de
-    assert "Verified-2026--09--28-success.svg" in root_readme
+    assert "Verified-2026--10--07-success.svg" in profile_en
+    assert "Geprüft-2026--10--07-success.svg" in profile_de
+    assert "Verified-2026--10--07-success.svg" in root_readme
 
 
 def test_last_checked_dates():
@@ -67,10 +67,10 @@ def test_last_checked_dates():
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
     llms_txt = (REPO_ROOT / "llms.txt").read_text(encoding="utf-8")
 
-    assert "last-checked: 2026-09-28" in profile_en
-    assert "last-checked: 2026-09-28" in profile_de
-    assert "2026-09-28" in root_readme
-    assert "Last-checked: 2026-09-28" in llms_txt
+    assert "last-checked: 2026-10-07" in profile_en
+    assert "last-checked: 2026-10-07" in profile_de
+    assert "2026-10-07" in root_readme
+    assert "Last-checked: 2026-10-07" in llms_txt
 
 
 def test_all_repos_indexed_in_profile_en():
