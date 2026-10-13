@@ -27,7 +27,7 @@ Related developer tooling: https://github.com/dev-bricks
 - Clipboard privacy: offline detection and redacting of sensitive patterns (IBAN, card numbers, email, phone)
 - Knowledge indexing: FTS5 SQLite full-text search over PDF, DOCX, TXT, MD, HTML without external services
 
-## Repository Index (16 Public Repositories)
+## Repository Index (17 Public Repositories)
 
 ### Organization Infrastructure
 - [`.github`](https://github.com/file-bricks/.github): Organization profile READMEs, shared community health files, issue/PR templates, and `llms.txt` machine index
@@ -49,6 +49,7 @@ Related developer tooling: https://github.com/dev-bricks
 - [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): Privacy-first Chrome Web Store RSS/Atom extension that saves feed entries as browser bookmarks
 - [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE): Power-user browser extension for RSS/Atom feeds with Native Messaging host and bidirectional Windows folder sync
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): Local-first Windows clipboard privacy monitor with traffic-light preview, pattern detection, and anonymization support
+- [`absorber`](https://github.com/file-bricks/absorber): Local-first tray app that turns clipboard content into a real file and hands the path back, with optional local Ollama file naming
 - [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): Lightweight cross-platform desktop organizer for software shortcuts with tab-based categorization
 - [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): Tab-based workspace application launcher and sister project to SoftwareCenter for organizing desktop shortcuts into topic boards
 - [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): Local-first Windows GUI for Python Microsoft Store MSIX packaging, AppxManifest generation, icons, and store assets
@@ -69,6 +70,7 @@ Freshness snapshot from the public GitHub repository metadata on 2026-10-07:
 - [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-09-26
 - [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-10-04
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-10-01
+- [`absorber`](https://github.com/file-bricks/absorber): public activity 2026-10-13
 - [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): public activity 2026-10-06
 - [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-10-06
 - [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-09-22
@@ -79,6 +81,7 @@ Freshness snapshot from the public GitHub repository metadata on 2026-10-07:
 - For local file management & privacy: [ExplorerPro](https://github.com/file-bricks/ExplorerPro) or [ProFiler](https://github.com/file-bricks/ProFiler)
 - For cloud-sync lock issues on Windows: [CloudLockFixer](https://github.com/file-bricks/CloudLockFixer)
 - For clipboard privacy & pattern masking: [AmpelClip](https://github.com/file-bricks/AmpelClip)
+- For turning clipboard content into a file and its path: [Absorber](https://github.com/file-bricks/absorber)
 - For local document RAG & notebook analysis: [NoteSpaceLLM](https://github.com/file-bricks/NoteSpaceLLM)
 - For prompt engineering & LLM building blocks: [promptboard](https://github.com/file-bricks/promptboard) or [ProfiPrompt](https://github.com/file-bricks/ProfiPrompt)
 - For privacy-first RSS workflows: [RSS-BOOK](https://github.com/file-bricks/RSS-BOOK)

@@ -1,6 +1,6 @@
 # file-bricks .github
 
-[![Public Repos](https://img.shields.io/badge/Public_Repos-16-blue.svg)](https://github.com/file-bricks)
+[![Public Repos](https://img.shields.io/badge/Public_Repos-17-blue.svg)](https://github.com/file-bricks)
 [![Security SLA](https://img.shields.io/badge/Security_SLA-48h_Response-blue.svg)](SECURITY.md)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](SECURITY.md)
 [![Local-First](https://img.shields.io/badge/Architecture-Local--First-orange.svg)](https://github.com/file-bricks)
@@ -20,6 +20,7 @@
 |---|---|---|---|
 | [`.github`](https://github.com/file-bricks/.github) | Organization profile, community standards & ecosystem index | Cross-platform | Markdown, YAML |
 | [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | Clipboard privacy monitor with traffic-light preview & anonymization | Windows / PWA | Python, PySide6, JS |
+| [`absorber`](https://github.com/file-bricks/absorber) | Tray app that turns clipboard content into a real file and hands the path back | Windows | Python, PySide6, Tray |
 | [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | Windows tray tool for repairing cloud-sync file locks (cldflt.sys) | Windows | Python, PySide6, Tray |
 | [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | Local-first file manager with privacy panels & duplicate finder | Windows / Cross-platform | Python, PySide6 |
 | [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | Tab-based workspace and application shortcut launcher | Windows / Cross-platform | Python, PySide6 |
@@ -39,7 +40,7 @@
 
 ## Current Public Activity
 
-The latest public repository activity across `file-bricks` reflects active maintenance and ecosystem refinement. The index above remains the canonical 16-repository directory; this snapshot is only a freshness signal.
+The latest public repository activity across `file-bricks` reflects active maintenance and ecosystem refinement. The index above remains the canonical 17-repository directory; this snapshot is only a freshness signal.
 
 | Repository | Latest public activity |
 |---|---|
@@ -55,6 +56,7 @@ The latest public repository activity across `file-bricks` reflects active maint
 | [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-09-26 |
 | [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-10-04 |
 | [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-10-01 |
+| [`absorber`](https://github.com/file-bricks/absorber) | 2026-10-13 |
 | [`KnowledgeDigest`](https://github.com/file-bricks/knowledgedigest) | 2026-10-06 |
 | [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-10-06 |
 | [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-09-22 |
