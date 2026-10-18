@@ -8,6 +8,7 @@ REPO_ROOT = Path(__file__).resolve().parent.parent
 EXPECTED_PUBLIC_REPOS = [
     ".github",
     "AmpelClip",
+    "absorber",
     "CloudLockFixer",
     "ExplorerPro",
     "LaunchBoards",
@@ -40,7 +41,7 @@ EXPECTED_ECOSYSTEM_ORGS = [
 
 
 def test_public_repo_count():
-    assert len(EXPECTED_PUBLIC_REPOS) == 16
+    assert len(EXPECTED_PUBLIC_REPOS) == 17
 
 
 def test_readme_badges():
@@ -48,9 +49,9 @@ def test_readme_badges():
     profile_de = (REPO_ROOT / "profile" / "README_de.md").read_text(encoding="utf-8")
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
 
-    assert "Public_Repos-16-blue.svg" in profile_en
-    assert "Öffentliche_Repos-16-blue.svg" in profile_de
-    assert "Public_Repos-16-blue.svg" in root_readme
+    assert "Public_Repos-17-blue.svg" in profile_en
+    assert "Öffentliche_Repos-17-blue.svg" in profile_de
+    assert "Public_Repos-17-blue.svg" in root_readme
 
     assert "Security_SLA-48h_Response-blue.svg" in profile_en
     assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
@@ -144,9 +145,3 @@ def test_security_policy_invariants():
     assert "Zero-Egress" in security_md
     assert "security@open-bricks.org" in security_md
     assert "support@lukasgeiger.com" in security_md
-
-
-def test_zero_leaks_private_repos():
-    for rel_path in ["profile/README.md", "profile/README_de.md", "README.md", "llms.txt"]:
-        content = (REPO_ROOT / rel_path).read_text(encoding="utf-8").lower()
-        assert "absorber" not in content, f"Leak detected: private repo 'absorber' found in {rel_path}"
