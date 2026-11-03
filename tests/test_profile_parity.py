@@ -57,9 +57,9 @@ def test_readme_badges():
     assert "Sicherheits--SLA-48h_Reaktion-blue.svg" in profile_de
     assert "Security_SLA-48h_Response-blue.svg" in root_readme
 
-    assert "Verified-2026--10--07-success.svg" in profile_en
-    assert "Geprüft-2026--10--07-success.svg" in profile_de
-    assert "Verified-2026--10--07-success.svg" in root_readme
+    assert "Verified-2026--11--03-success.svg" in profile_en
+    assert "Geprüft-2026--11--03-success.svg" in profile_de
+    assert "Verified-2026--11--03-success.svg" in root_readme
 
 
 def test_last_checked_dates():
@@ -68,10 +68,10 @@ def test_last_checked_dates():
     root_readme = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
     llms_txt = (REPO_ROOT / "llms.txt").read_text(encoding="utf-8")
 
-    assert "last-checked: 2026-10-07" in profile_en
-    assert "last-checked: 2026-10-07" in profile_de
-    assert "2026-10-07" in root_readme
-    assert "Last-checked: 2026-10-07" in llms_txt
+    assert "last-checked: 2026-11-03" in profile_en
+    assert "last-checked: 2026-11-03" in profile_de
+    assert "2026-11-03" in root_readme
+    assert "Last-checked: 2026-11-03" in llms_txt
 
 
 def test_all_repos_indexed_in_profile_en():
@@ -145,3 +145,34 @@ def test_security_policy_invariants():
     assert "Zero-Egress" in security_md
     assert "security@open-bricks.org" in security_md
     assert "support@lukasgeiger.com" in security_md
+
+
+def test_utf8_encoding_and_umlauts():
+    de_content = (REPO_ROOT / "profile" / "README_de.md").read_text(encoding="utf-8")
+    assert "ö" in de_content or "ä" in de_content or "ü" in de_content
+    # Mojibake checks
+    assert "Ã" not in de_content
+    assert "â€" not in de_content
+
+
+def test_markdown_fence_balance():
+    for rel_path in ["profile/README.md", "profile/README_de.md", "README.md", "llms.txt"]:
+        file_content = (REPO_ROOT / rel_path).read_text(encoding="utf-8")
+        fences = file_content.count("```")
+        assert fences % 2 == 0, f"Unbalanced code fences in {rel_path}"
+
+
+def test_private_repo_leak_guard():
+    target_files = [
+        "profile/README.md",
+        "profile/README_de.md",
+        "README.md",
+        "llms.txt",
+        "SECURITY.md",
+        "CONTRIBUTING.md",
+    ]
+    denylist = ["Zweckraum"]
+    for rel_path in target_files:
+        file_content = (REPO_ROOT / rel_path).read_text(encoding="utf-8")
+        for bad in denylist:
+            assert bad.lower() not in file_content.lower(), f"Leak of private repo '{bad}' found in {rel_path}!"

@@ -7,14 +7,14 @@
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
 [![PySide6](https://img.shields.io/badge/GUI-PySide6-41CD52.svg)](https://pypi.org/project/PySide6/)
 [![LLM-Ready](https://img.shields.io/badge/LLM-Ready-purple.svg)](llms.txt)
-[![Verified](https://img.shields.io/badge/Verified-2026--10--07-success.svg)](https://github.com/file-bricks)
+[![Verified](https://img.shields.io/badge/Verified-2026--11--03-success.svg)](https://github.com/file-bricks)
 
 > [!NOTE]
 > This repository is the organization profile and default community health directory for **[file-bricks](https://github.com/file-bricks)**. The public landing pages are maintained in [`profile/README.md`](profile/README.md) (English) and [`profile/README_de.md`](profile/README_de.md) (Deutsch). For machine-readable context navigation, refer to [`llms.txt`](llms.txt).
 
 ---
 
-## Current Public Index (2026-10-07)
+## Current Public Index (2026-11-03)
 
 | Repository | Focus / Purpose | Platform | Primary Tech |
 |---|---|---|---|
@@ -44,23 +44,23 @@ The latest public repository activity across `file-bricks` reflects active maint
 
 | Repository | Latest public activity |
 |---|---|
-| [`.github`](https://github.com/file-bricks/.github) | 2026-10-07 |
-| [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | 2026-10-07 |
-| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-10-04 |
-| [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | 2026-10-06 |
-| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | 2026-09-26 |
-| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-10-03 |
-| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-10-07 |
-| [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | 2026-10-03 |
-| [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | 2026-09-26 |
-| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-09-26 |
-| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-10-04 |
+| [`.github`](https://github.com/file-bricks/.github) | 2026-11-03 |
+| [`promptboard`](https://github.com/file-bricks/promptboard) | 2026-11-03 |
+| [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter) | 2026-11-03 |
+| [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro) | 2026-11-02 |
+| [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer) | 2026-11-02 |
+| [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer) | 2026-11-02 |
+| [`ProFiler`](https://github.com/file-bricks/ProFiler) | 2026-11-01 |
+| [`ProSync`](https://github.com/file-bricks/ProSync) | 2026-11-01 |
+| [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt) | 2026-11-01 |
+| [`KnowledgeDigest`](https://github.com/file-bricks/knowledgedigest) | 2026-11-01 |
+| [`absorber`](https://github.com/file-bricks/absorber) | 2026-10-31 |
+| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-10-25 |
+| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-10-21 |
+| [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager) | 2026-10-21 |
+| [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE) | 2026-10-21 |
 | [`AmpelClip`](https://github.com/file-bricks/AmpelClip) | 2026-10-01 |
-| [`absorber`](https://github.com/file-bricks/absorber) | 2026-10-13 |
-| [`KnowledgeDigest`](https://github.com/file-bricks/knowledgedigest) | 2026-10-06 |
-| [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM) | 2026-10-06 |
-| [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK) | 2026-09-22 |
-| [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE) | 2026-09-22 |
+| [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards) | 2026-09-26 |
 
 ---
 

@@ -1,6 +1,6 @@
 # file-bricks
 
-## Last-checked: 2026-10-07
+## Last-checked: 2026-11-03
 
 Canonical URL: https://github.com/file-bricks
 Organization profile repository: https://github.com/file-bricks/.github
@@ -56,25 +56,25 @@ Related developer tooling: https://github.com/dev-bricks
 
 ## Current Public Activity
 
-Freshness snapshot from the public GitHub repository metadata on 2026-10-07:
+Freshness snapshot from the public GitHub repository metadata on 2026-11-03:
 
-- [`.github`](https://github.com/file-bricks/.github): public activity 2026-10-07
-- [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro): public activity 2026-10-07
-- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-10-04
-- [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer): public activity 2026-10-06
-- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): public activity 2026-09-26
-- [`ProSync`](https://github.com/file-bricks/ProSync): public activity 2026-10-03
-- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-10-07
-- [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer): public activity 2026-10-03
-- [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): public activity 2026-09-26
-- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-09-26
-- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-10-04
+- [`.github`](https://github.com/file-bricks/.github): public activity 2026-11-03
+- [`promptboard`](https://github.com/file-bricks/promptboard): public activity 2026-11-03
+- [`SoftwareCenter`](https://github.com/file-bricks/SoftwareCenter): public activity 2026-11-03
+- [`ExplorerPro`](https://github.com/file-bricks/ExplorerPro): public activity 2026-11-02
+- [`SQLiteViewer`](https://github.com/file-bricks/SQLiteViewer): public activity 2026-11-02
+- [`CloudLockFixer`](https://github.com/file-bricks/CloudLockFixer): public activity 2026-11-02
+- [`ProFiler`](https://github.com/file-bricks/ProFiler): public activity 2026-11-01
+- [`ProSync`](https://github.com/file-bricks/ProSync): public activity 2026-11-01
+- [`ProfiPrompt`](https://github.com/file-bricks/ProfiPrompt): public activity 2026-11-01
+- [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): public activity 2026-11-01
+- [`absorber`](https://github.com/file-bricks/absorber): public activity 2026-10-31
+- [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-10-25
+- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-10-21
+- [`WinStorePackager`](https://github.com/file-bricks/WinStorePackager): public activity 2026-10-21
+- [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE): public activity 2026-10-21
 - [`AmpelClip`](https://github.com/file-bricks/AmpelClip): public activity 2026-10-01
-- [`absorber`](https://github.com/file-bricks/absorber): public activity 2026-10-13
-- [`knowledgedigest`](https://github.com/file-bricks/knowledgedigest): public activity 2026-10-06
-- [`NoteSpaceLLM`](https://github.com/file-bricks/NoteSpaceLLM): public activity 2026-10-06
-- [`RSS-BOOK`](https://github.com/file-bricks/RSS-BOOK): public activity 2026-09-22
-- [`RSS-BOOKSTORE`](https://github.com/file-bricks/RSS-BOOKSTORE): public activity 2026-09-22
+- [`LaunchBoards`](https://github.com/file-bricks/LaunchBoards): public activity 2026-09-26
 
 ## Recommended Starting Points
 
