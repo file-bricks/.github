@@ -2,7 +2,20 @@
 
 All notable changes to the `file-bricks` organization profile repository and shared health assets will be documented in this file.
 
-## [Unreleased] - 2026-10-07
+## [Unreleased] - 2026-11-03
+
+### Fixed
+- **LaunchBoards Showcase Link**: Corrected target repository link for the LaunchBoards banner from SoftwareCenter to https://github.com/file-bricks/LaunchBoards in both profile/README.md and profile/README_de.md.
+
+### Added
+- **Contract Tests**: Added `test_utf8_encoding_and_umlauts`, `test_markdown_fence_balance`, and `test_private_repo_leak_guard` to `tests/test_profile_parity.py` (contract suite expanded to 15 passed / 100% green).
+
+### Updated
+- **Visual Harmonization & Layout**: Redesigned tool showcase banner layout in profile/README.md and profile/README_de.md with vertical 14px margins (margin: 0 auto 14px) and responsive width for optimal contrast and readability across GitHub light/dark themes.
+- **Freshness Snapshot**: Synchronized public activity timestamps to 2026-11-03 based on live GitHub repository telemetry covering all 17 public repositories across profile/README.md, profile/README_de.md, root README.md, and llms.txt.
+- **Verification Badges & Timestamps**: Updated Verified-2026--11--03 / Geprüft-2026--11--03 status badges and last-checked: 2026-11-03 markers across all profile surfaces.
+
+## [1.3.2] - 2026-10-07
 
 ### Added
 - **LaunchBoards Banner Parity (DE)**: Added `LaunchBoards` banner (`assets/banner-launchboards.png`) to `profile/README_de.md` next to `SoftwareCenter`, achieving 100% visual and link parity with English profile.
